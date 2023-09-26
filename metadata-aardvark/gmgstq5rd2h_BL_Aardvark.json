@@ -1,1 +1,31 @@
-{"dct_title_s": "Census Block Groups Portland Metro, Oregon","dct_description_sm": ["This polygon data layer represents census block groups for Portland Metro, Oregon in 2001. The dataset was originally published by the Metro Data Resource Center in February 2001."],"dct_language_sm": ["eng"],"dct_creator_sm": ["Metro Data Resource Center"],"schema_provider_s": "American Geographical Society Library – UWM Libraries","gbl_resourceClass_sm": ["Datasets"],"gbl_resourceType_sm": ["Polygon data"],"dcat_theme_sm": ["Society"],"dct_temporal_sm": ["egon"],"dct_issued_s": "2001","gbl_indexYear_im": [egon],"dct_spatial_sm": ["Portland Metro","Oregon"],"locn_geometry": "ENVELOPE(-121.64771, -123.518008, 46.067197, 44.856479)","dcat_bbox": "ENVELOPE(-123.518008, -121.64771, 46.067197, 44.856479)","dct_rights_sm": ["<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.","Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."],"dct_accessRights_s": "Public","dct_format_s": "Shapefile","dct_identifier_sm": "ark:/77981/gmgstq5rd2h","dct_references_s": "{\"http://schema.org/url\":\"https://geodiscovery.uwm.edu/ark:-77981-gmgstq5rd2h\",\"http://schema.org/downloadUrl\":\"https://geodata.uwm.edu/public/gmgstq5rd2h/PortlandMetro_CensusBlockGroups_1990.zip\",\"http://www.isotc211.org/schemas/2005/gmd\":\"https://geodata.uwm.edu/metadata/gmgstq5rd2h_ISO.xml\"}","id": "ark:-77981-gmgstq5rd2h","gbl_mdModified_dt": "2023-09-26T14:05:18.1543403Z","gbl_mdVersion_s": "Aardvark","gbl_suppressed_b": false}
+{
+    "dct_title_s": "Census Block Groups Portland Metro, Oregon, 2001",
+    "dct_description_sm": ["This polygon data layer represents census block groups for Portland Metro, Oregon in 2001. The dataset was originally published by the Metro Data Resource Center in February 2001."],
+    "dct_language_sm": ["eng"],
+    "dct_creator_sm": ["Metro Data Resource Center"],
+    "schema_provider_s": "American Geographical Society Library – UWM Libraries",
+    "gbl_resourceClass_sm": ["Datasets"],
+    "gbl_resourceType_sm": ["Polygon data"],
+    "dcat_theme_sm": ["Society"],
+    "dct_temporal_sm": ["2001"],
+    "dct_issued_s": "2001",
+    "gbl_indexYear_im": [2001],
+    "dct_spatial_sm": [
+        "Portland Metro",
+        "Oregon"
+    ],
+    "locn_geometry": "ENVELOPE(-121.64771, -123.518008, 46.067197, 44.856479)",
+    "dcat_bbox": "ENVELOPE(-123.518008, -121.64771, 46.067197, 44.856479)",
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "dct_accessRights_s": "Public",
+    "dct_format_s": "Shapefile",
+    "dct_references_s": "{\"http://schema.org/url\":\"https://geodiscovery.uwm.edu/ark:-77981-gmgstq5rd2h\",\"http://schema.org/downloadUrl\":\"https://geodata.uwm.edu/public/gmgstq5rd2h/PortlandMetro_CensusBlockGroups_1990.zip\",\"http://www.isotc211.org/schemas/2005/gmd\":\"https://geodata.uwm.edu/metadata/gmgstq5rd2h_ISO.xml\"}",
+    "id": "ark:-77981-gmgstq5rd2h",
+    "dct_identifier_sm": ["ark:/77981/gmgstq5rd2h"],
+    "gbl_mdModified_dt": "2023-09-26T18:08:51.4807722Z",
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_suppressed_b": false
+}
