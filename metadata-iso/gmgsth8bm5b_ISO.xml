@@ -1,0 +1,777 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<fileIdentifier>
+<gco:CharacterString>ark:/77981/gmgsth8bm5b</gco:CharacterString>
+</fileIdentifier>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<hierarchyLevel>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</hierarchyLevel>
+<hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</hierarchyLevelName>
+<contact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+<dateStamp>
+<gco:Date>2019-10-14</gco:Date>
+</dateStamp>
+<metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</metadataStandardName>
+<metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</metadataStandardVersion>
+<dataSetURI>
+<gco:CharacterString>https://geodata.uwm.edu/public/gmgsth8bm5b/DaneCounty_LandUse_2010.zip</gco:CharacterString>
+</dataSetURI>
+<spatialRepresentationInfo>
+<MD_VectorSpatialRepresentation>
+<topologyLevel>
+<MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+</topologyLevel>
+<geometricObjects>
+<MD_GeometricObjects>
+<geometricObjectType>
+<MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+</geometricObjectType>
+<geometricObjectCount>
+<gco:Integer>271414</gco:Integer>
+</geometricObjectCount>
+</MD_GeometricObjects>
+</geometricObjects>
+</MD_VectorSpatialRepresentation>
+</spatialRepresentationInfo>
+<referenceSystemInfo>
+<MD_ReferenceSystem>
+<referenceSystemIdentifier>
+<RS_Identifier>
+<code>
+<gco:CharacterString>103412</gco:CharacterString>
+</code>
+<codeSpace>
+<gco:CharacterString>Esri</gco:CharacterString>
+</codeSpace>
+<version>
+<gco:CharacterString>9.2.0</gco:CharacterString>
+</version>
+</RS_Identifier>
+</referenceSystemIdentifier>
+</MD_ReferenceSystem>
+</referenceSystemInfo>
+<identificationInfo>
+<MD_DataIdentification>
+<citation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Land Use Dane County, Wisconsin 2010</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>DaneCounty_LandUse_2010</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2010-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2010-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<identifier>
+<MD_Identifier>
+<code>
+<gco:CharacterString>https://geodiscovery.uwm.edu/ark:-77981-gmgsth8bm5b</gco:CharacterString>
+</code>
+</MD_Identifier>
+</identifier>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+<otherCitationDetails>
+<gco:CharacterString>Date Acquired: February 11, 2014</gco:CharacterString>
+</otherCitationDetails>
+</CI_Citation>
+</citation>
+<abstract>
+<gco:CharacterString>This polygon data layer represents land use for Dane County, Wisconsin in 2010. The dataset was originally published by the Dane County Land Information Office in 2010.[2010 Land Use Inventory ProcedureAaron C. KrebsCARPC GIS Specialistaaronk@capitalarearpc.org608-266-9002Phase 1 –Grant Writing and Data Exploration/Brainstorming*Review previous pro/cons of land uses, discuss with planners (primary users of data) their wishes for the dataset*Apply for money to conduct inventoryPhase 2 –Data Collection, Field Data Collection*Save April 1st 2010 parcel dataset and other datasets that are routinely updated but might yield some assistance in identification*Finalize land use codes and make comparable (cross-walk table) to previous land uses*Collect summer 2010 agricultural/rural crop types through windshield surveysPhase 3 –Data Creation*Assign land use codes to blank land use inventory polygons based on field data collected, aerial imagery and other sources as available*Integrate employer names (Info USA dataset from MAMPO) into the dataset*Add information about the name of the place (place description) to the polygon/s where possiblePhase 4 –Quality Control*Check for land use codes of 0, &amp;lt;null&amp;gt;, or codes not in the master list*Merge polygons that have the same parcel number, land use code, and place description.*Add desciptors to the dataset for each LUCODE, rather than the usage of a seperate lookup tablePhase 5 –Publication*Integrate photographs taken in summer of 2010 into the dataset*Publish dataset to DciMap, DCView 1.4.1., DCView 10*Create land use acreage breakdowns for individual communities*Publish a short document on the numbers, procedure and applicability of the dataset*Present data to WLIA and/or WAPAPhase 1In coordination between the Capital Area Regional Planning Commission (CARPC), Dane County Planning and Development (DCPD) and the Wisconsin Department of Agriculture and Consumer Protection (DATCP) a grant was applied for to recieve funds for conducting an agricultural inventory for Dane County. DCPD wrote and sponsored the grant and contracted to CARPC to perform the detailed inventory in coordination with their 2010 land use inventory.Staff from DCPD and CARPC worked collaboratively to identify the need, identify the possibilities, identify the issues, identify the limitations from previous land use inventories and coordinate a plan of attack to generate a inventory that satisfied the grant and far exceeded previous land use inventories while making the data useful for staff and general public.Phase 2 Write-upWith financial assistance from DATCP, RPC staff descended upon rural Dane County in June - August of 2010 to inventory agricultural fields and farming operations. Two GIS interns were hired to drive around and use GIS software to spatially locate crops and agricultural land uses visible from public rights of way. This data, which consists of +36,000 points, will be used to digitize crop boundaries once summer 2010 aerial imagery becomes available. They collected data using a stand alond ArcMap Basic license and geodatabases which they would upload nightly to the county network. They also brought along a camera and would take pictures of farms, when and where possible. Also pictures were taken of other sites when deemed interesting.The interns spent the months of June, July and August traveling and inventoring crops with some surprising results. There are 10 sites that are growing hops, tobacco is a common crop in the southeastern portion of the county and there are almost as many beef farms as there are dairy farms. They logged almost 5,300 miles crisscrossing the county, generally between the hours of 9 am to 4 pm.Typical DayThe interns would meet meet up in the office between 8:30 and 9:00 A.M., usually reserving a vehicle the previous workday, but often making the reservation that morning. Before departure, they first determine the geographic area to inventory; normally trying to complete a six by six mile square town in the course of two to three days. Once out in the field they would drive throughout the countryside mapping out land uses- placing points encoded with the appropriate four-digit code. If there isn’t an obvious code, or we’re not sure what the code is off hand we place a zero on the land use and input as much information on what they saw while at the site. At a later date they would re-edit that zero (usually Fridays). We also document farm residences, and other residential areas (single family, duplex, etc..). If the residence is indeed a farm we take a photo and label the corresponding photo number as an attribute tagged to a single farm residence point. Difficulties/Problems With the Remotely Collected DataOne major difficulty is determining a land use for a farm field more than ¾of a mile away. Even with the use of binoculars it is sometimes difficult to make a call as to what exactly is going on in that farm field. Trees and steep hillsides in the western portion of the county often obscure one’s line of sight when trying to determine land uses as well. Major highways present another problem- plotting points while moving at a relatively fast pace. We map out these areas usually by lapping back and forth until we have all the necessary fields plotted out. Coordination between the driver and plotter was absolutely necessary to establishing a safe anbd productive pace. Often the passenger/point plotter would be entering points while the vehicle was stopped off the road/on the shoulder while the driver used binoculars to identify land use. The passenger/plotter also used the GIS software to plan the route and coordinate turns efficiently.Another major difficulty has been going out into the field with the zoning inspectors laptops that ping off of Verizon wireless cell phone reception, this was used in a second vehicle to maximize the coverage area. This reception is spotty at best, and it requires one to be close enough in range in order to use Arc Map efficiently. Usually one can plot areas very slowly with this laptop, but sometimes it falls out of range and it becomes difficult to impossible to use. A major difficulty in determining crop use is when we spot a field of alfalfa or a pea/oat mix. Both of these crops are used to feed cattle, but we often end up categorizing each into hay as these crops are often used as hay. The western portion of the county, The Driftless Area, contains very steep hillsides that are farmed along their contours with different crops. This presents another difficulty, as we have to place the dots for the farm fields on the correct area of the aerial photography, and most certainly in the correct order to help those in Phase 3 correctly cut the polygons to match the crop types. The aerial photography (which was from two years prior) however, doesn’t have any elevation data or topographic lines making it somewhat difficult to place correct crops on the correct elevation of a hillside. Hidden driveways containing farms and single family houses alike obscure our sight and don’t allow us to investigate what land use is going on. This is very common, and it requires us to make an educated guess or rely on 2005 land use data and/or intuition.Changes To the ProjectWe’ve added some new codes to describe what is going on in Dane County’s rural areas. For instance, we’ve added 9400 for fallow farm field, 8192 for sustainable forestry or certified tree farms. Phase 3 –Data CreationPhase 3 is by far the most extensive and exhausting phase of this project. It requires the most attention to detail and the most consistency.Land use analysts/staff used an ArcMap session to select polygons and insert land use codes based on aerial imagery interpretation, field data if available, owner name, previous land use datasets, zoning, improvement values, address, neighboring land uses and other sources as necessary. The aerial imagery will be the overwhelming decider.If a land use can not be determined within a reasonable amount of time a combination of the following might be necessary to correctly determine the land use: site visit, contact with municipality clerk, contact with county zoning inspector, contact with county planner, contact with municipality planner, contact with municipality building inspector.For the purposes of the agricultural land determination (type and spatial extent) we are to use the 2010 FSA/NAIP imagery from the summer 2010. This will afford us the opportunity to see the crops and fields in full bloom and to assist in crop type determination. For all other areas the usage of other 2010 imagery is authorized to assign a land use code. This includes black and white 2010 (March/April Fly Dane) and color 2010 (March/April Fly Dane). Care should be taken when using any other imagery source as timing and spatial location is likely to change (Bing Maps, Google Earth, Google Maps, Yahoo Maps).When known a “Place Description”will be added to the polygon/s to indicate what the name of the feature is. For example “Lost Hill Cemetery”, “Target”, “Mount Horeb Fire Department Bldg #1”, “Sweet Pea’s Organic Dairy Farm”, “Lake Maunesha”. Adding this information could lend a more accurate description of the land when needed in future years.When a road right of way crosses over a river, the land use for that portion will be road right of way.When a road right of way crosses over a railroad right of way, the land use for that portion will be road right of way.When a railroad right of way crosses a water feature, the land use for that portion will be railroad right of way.Water features will be displayed as the primary land use for all other occurrences of water.If water can be seen from an aerial photograph then water is digitized (unless it is a pool, manure pit or less than a tenth of an acre in size) to match the boundaries of the water feature. If a creek bed is dry, or an intermittent stream does not have water in it, then the likely code to use is that of Other Open Land or 9300.Woodlands are coded as a land use. For all instances of wooded areas, greater than 80% tree canopy cover on the FSA/NAIP image and 2 or more acres in contiguous size and more than 2 trees wide at its narrowest point use the code 9200. Often times it is necessary to include portions of adjoining areas into a woodland. For example a rural subdivision might abut a wooded area and the subdivision lots might be large enough to digitize a portion of it as woods. There may also be occurrences of large rural lots (5+ acres) that are predominantly wooded with a small single family home on it. In that type of situation the home and driveway are coded as 1110 while the remainder of the lot is coded as 9200. There may also be occurrences of exurban type areas that have connective woods on them while the predominant land use is single family. In those cases select the single family lot (generally these are 1 acre or less) and code the entire polygon 1110. Cut the polygon along the woodland boundary and code the wooded area with a secondary land use code as 9200.For areas that are platted but not yet built upon take special care. For road right of way that is platted but not yet built, code that as 4501. For subdivision lots that are not yet built upon use the code 9100. Often times these areas are still being actively farmed and it may be necessary to cut the polygons and assign a secondary land use code to reflect the type of crops being grown there. For example a rural subdivision or CSM lot might have a primary land use code of 9100 but a secondary land use code of 8120 because the farmer had planted corn. There are also likely to be instances where the subdivision lot would be wooded and therefore it’s secondary land use code would be 9200.The 2010 land use inventory dataset began as a combination/union of the following: tax parcel polygons from April 1st 2010 (no polygon was digitized for ROW), hydrography polygons, a 10 foot buffer of hydrography polylines, DNR 24K wetlands and municipalities.Because the base polygon dataset is a combination of datasets often times there are slivers/small polygons of water features within and/or outside of a water feature. In these areas use the underlying aerial imagery to assist in water delineation.Farms are digitized as follows: the farm residence and it’s portion of the driveway and adjoining lands (swingset, garage, front yard etc..) are coded as 8110, the farm buildings are coded with the appropriate code (8119, 8141, 8142 etc..), any pasture lands that adjoin the farm buildings are coded as 8148.Often times there will be single family homes with a detached barn and pasture area for horses. In that case code the pasture land as 8148 and the buildings and land around it associated with the residence as 1110 with a secondary land use of 8147.When coding it is recommended that you work on a municipality. A definition query limiting the polygons to just that municipality can be used. When the town is complete it is recommended that you open the attribute table and sort ascending by CARPC LUCODE. This will place the null or 0 values at the top and help to zoom or pan to them easily. Once all the null or 0’s are filled in with a correct LUCODE within the municipality the definition query can be changed and the municipality is ready for review.Phase 4 –Quality ControlDuring phase 4 staff worked towards identifying and correcting areas within the dataset that were missed, omitted, miscoded, shifted, out of place etc… This often took the form of checking for land use codes of 0 or &amp;lt;null&amp;gt;. Also drawing a municipality at a time with a set symbology and visually looking for clues of misidentification (an entire section of water, square water features, large single family polygons, commercial lands inside a field of corn).Staff also worked at identifying and eliminating overlapping polygons (especially condominiums) as a tally of acreage for these land uses would be reported erroneously. Topology was run to identify overlapping polygons. These were merged into one polygon. Topology was run to identify large holes in the dataset (it happened a few times where the analyst would accidentially delete the polygon). Where possible staff would merge polygons that have the same parcel number, land use code, and place description. The intent of this step is to eliminate the large number of slivers and speed up the drawing process.Phase 5 –PublicationPhase 5 is where the data is converted to an SDE feature class and published to the Dane County Enterprise Data Repository (EDR) where it is accesible to staff and available for purchase. A layer file was created to be drawn using the same symbology as previous land uses. An agriculural specific layer file was created to visualize the crop diversity, all agricultural LUCODEs were drawn with a dull, pale non contrasty grey color.The intent is to gain feedback from staff about usage, limitations etc... from this land use and incorporate these into land uses done on a 5 year increment, or whenever possible. A detailed agricultural land use is only possible when a summer aerial photograph can be taken, the spring flight does not capture the crop growth in the fields.]</gco:CharacterString>
+</abstract>
+<purpose>
+<gco:CharacterString>This layer is intended for reference and mapping purposes and may be used for basic applications such as viewing, querying, and map output production or to provide a basemap to support graphical overlays and analysis with other spatial data.
+
+[Parcel based land use inventory for Dane County Wisconsin for the year 2010, This dataset was developed for site specific and regional planning including land use, transportation and environmental resource applications. Parcel boundaries are reflective off April 1st 2010 while agricultural, specifically crop /field deliniations and identifications are reflective of June-August 2010.]
+</gco:CharacterString>
+</purpose>
+<credit>
+<gco:CharacterString>Dane County Land Information Office
+
+[Capital Area Regional Planning Commission, Madison Area Metropolitan Planning Board, Dane County Land Information Office, Dane County Planning &amp; Development.]</gco:CharacterString>
+</credit>
+<status>
+<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+</status>
+<pointOfContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</pointOfContact>
+<resourceMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="unknown" codeSpace="ISOTC211/19115">unknown</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+<contact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+</MD_MaintenanceInformation>
+</resourceMaintenance>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Dane County</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Wisconsin</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+</type>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Polygon</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>FGDC</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Land use</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Planning</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>LCSH</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Downloadable Data</gco:CharacterString>
+</keyword>
+<thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66">
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<resourceConstraints>
+<MD_Constraints>
+<useLimitation>
+<gco:CharacterString>Please see UWM Libraries statement on Copyright and Digital Collections.</gco:CharacterString>
+</useLimitation>
+</MD_Constraints>
+</resourceConstraints>
+<resourceConstraints>
+<MD_LegalConstraints>
+<useLimitation>
+<gco:CharacterString>Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.</gco:CharacterString>
+</useLimitation>
+<otherConstraints>
+<gco:CharacterString>None</gco:CharacterString>
+</otherConstraints>
+</MD_LegalConstraints>
+</resourceConstraints>
+<spatialRepresentationType>
+<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+</spatialRepresentationType>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<topicCategory>
+<MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+</topicCategory>
+<environmentDescription>
+<gco:CharacterString> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.1.9270</gco:CharacterString>
+</environmentDescription>
+<extent>
+<EX_Extent>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<extentTypeCode>
+<gco:Boolean>true</gco:Boolean>
+</extentTypeCode>
+<westBoundLongitude>
+<gco:Decimal>-89.846647</gco:Decimal>
+</westBoundLongitude>
+<eastBoundLongitude>
+<gco:Decimal>-89.004614</gco:Decimal>
+</eastBoundLongitude>
+<southBoundLatitude>
+<gco:Decimal>42.839234</gco:Decimal>
+</southBoundLatitude>
+<northBoundLatitude>
+<gco:Decimal>43.296906</gco:Decimal>
+</northBoundLatitude>
+</EX_GeographicBoundingBox>
+</geographicElement>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="IDX0NQTHBOQ0JEJ3VOQVL3UNCCCFQZKJXPP4RRESEULOHEQPC3DMCH">
+<gml:timePosition>2010-01-01T00:00:00</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</extent>
+<supplementalInformation>
+<gco:CharacterString>Augmented original metadata with AGSL specific elements. For official metadata contact the resource Point of Contact.</gco:CharacterString>
+</supplementalInformation>
+</MD_DataIdentification>
+</identificationInfo>
+<distributionInfo>
+<MD_Distribution>
+<distributionFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Shapefile</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>1.0</gco:CharacterString>
+</version>
+</MD_Format>
+</distributionFormat>
+<distributor>
+<MD_Distributor>
+<distributorContact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</distributorContact>
+<distributorFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Shapefile</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>1.0</gco:CharacterString>
+</version>
+</MD_Format>
+</distributorFormat>
+</MD_Distributor>
+</distributor>
+<distributor>
+<MD_Distributor>
+<distributorContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</distributorContact>
+<distributorFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Shapefile</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>1.0</gco:CharacterString>
+</version>
+</MD_Format>
+</distributorFormat>
+</MD_Distributor>
+</distributor>
+<transferOptions>
+<MD_DigitalTransferOptions>
+<transferSize>
+<gco:Real>219.073</gco:Real>
+</transferSize>
+</MD_DigitalTransferOptions>
+</transferOptions>
+</MD_Distribution>
+</distributionInfo>
+<dataQualityInfo>
+<DQ_DataQuality>
+<scope>
+<DQ_Scope>
+<level>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</level>
+</DQ_Scope>
+</scope>
+<report>
+<DQ_QuantitativeAttributeAccuracy>
+<measureDescription>
+<gco:CharacterString>Attribute information remains the same as given by the author of the data.</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_QuantitativeAttributeAccuracy>
+</report>
+<lineage>
+<LI_Lineage>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>Changed name of file from LandUse.shp to DaneCounty_LandUse_2010.shp.</gco:CharacterString>
+</description>
+<processor>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+</LI_Lineage>
+</lineage>
+</DQ_DataQuality>
+</dataQualityInfo>
+<metadataConstraints>
+<MD_Constraints>
+<useLimitation>
+<gco:CharacterString>None</gco:CharacterString>
+</useLimitation>
+</MD_Constraints>
+</metadataConstraints>
+<metadataMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+<contact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+</MD_MaintenanceInformation>
+</metadataMaintenance>
+</MD_Metadata>

@@ -1,0 +1,1042 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<fileIdentifier>
+<gco:CharacterString>ark:/77981/gmgsc24qm86</gco:CharacterString>
+</fileIdentifier>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<hierarchyLevel>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</hierarchyLevel>
+<hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</hierarchyLevelName>
+<contact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+<dateStamp>
+<gco:Date>2020-01-06</gco:Date>
+</dateStamp>
+<metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</metadataStandardName>
+<metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</metadataStandardVersion>
+<dataSetURI>
+<gco:CharacterString>https://geodata.uwm.edu/public/gmgsc24qm86/Illinois_Municipalities_2000.zip</gco:CharacterString>
+</dataSetURI>
+<spatialRepresentationInfo>
+<MD_VectorSpatialRepresentation>
+<topologyLevel>
+<MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+</topologyLevel>
+<geometricObjects>
+<MD_GeometricObjects>
+<geometricObjectType>
+<MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+</geometricObjectType>
+<geometricObjectCount>
+<gco:Integer>2730</gco:Integer>
+</geometricObjectCount>
+</MD_GeometricObjects>
+</geometricObjects>
+</MD_VectorSpatialRepresentation>
+</spatialRepresentationInfo>
+<referenceSystemInfo>
+<MD_ReferenceSystem>
+<referenceSystemIdentifier>
+<RS_Identifier>
+<code>
+<gco:CharacterString>4269</gco:CharacterString>
+</code>
+<codeSpace>
+<gco:CharacterString>EPSG</gco:CharacterString>
+</codeSpace>
+<version>
+<gco:CharacterString>6.12(3.0.1)</gco:CharacterString>
+</version>
+</RS_Identifier>
+</referenceSystemIdentifier>
+</MD_ReferenceSystem>
+</referenceSystemInfo>
+<identificationInfo>
+<MD_DataIdentification>
+<citation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Municipalities Illinois 2000</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>Illinois_Municipalities_2000</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2006-04-25</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<edition>
+<gco:CharacterString>20060425</gco:CharacterString>
+</edition>
+<identifier>
+<MD_Identifier>
+<code>
+<gco:CharacterString>https://geodiscovery.uwm.edu/ark:-77981-gmgsc24qm86</gco:CharacterString>
+</code>
+</MD_Identifier>
+</identifier>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Illinois State Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(217)-333-4747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>615 E. Peabody</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Champaign</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>IL</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>61820</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>info@isgs.illinois.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Illinois State Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(217)-333-4747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>615 E. Peabody</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Champaign</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>IL</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>61820</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>info@isgs.illinois.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Illinois State Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(217)-333-4747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>615 E. Peabody</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Champaign</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>IL</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>61820</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>info@isgs.illinois.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>United States Census Bureau</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<electronicMailAddress>
+<gco:CharacterString>geo.geography@census.gov</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+<series>
+<CI_Series>
+<name>
+<gco:CharacterString>ISGS GIS Database</gco:CharacterString>
+</name>
+<issueIdentification>
+<gco:CharacterString>GISDB.IL_ADMIN_Municipality_2000_Py</gco:CharacterString>
+</issueIdentification>
+</CI_Series>
+</series>
+<otherCitationDetails>
+<gco:CharacterString>Date Acquired: July 27, 2007</gco:CharacterString>
+</otherCitationDetails>
+</CI_Citation>
+</citation>
+<abstract>
+<gco:CharacterString>This polygon data layer represents municipalities for Illinois in 2000. The dataset was originally published by the Illinois State Geological Survey on April 25, 2006.[This polygon feature class shows incorporated places and census designated places in Illinois as of the 2000 US census. The data are identical to that provided by the US Census except that field names have been changed or fields deleted to conform with data already in use at the ISGS. The metadata are for the most part from the original Census Dept. metadata with minor additons by the ISGS. The attribute data include FIPS place ID, name, and type of municipality. Boundaries are generalized from the original TIGER data. Incorporated places recognized in decennial US census data products are those reported to the U.S. Census Bureau as legally in existence on January 1, 2000, under the laws of their respective states, as cities, boroughs, towns, and villages. Census designated places (CDPs) are delineated for each decennial census as the statistical counterparts of incorporated places. CDPs are delineated to provide data for settled concentrations of population that are identifiable by name but are not legally incorporated under the laws of the state in which they are located. These are generalized cartographic boundaries originally produced to support the spatial geographic infrastructure for certain mapping functions within the Census Bureau's American Fact Finder and in support of the LandView Geographic Data Viewer. The data are a generalized extraction from the Census Bureau's TIGER database. The suggested scale for use of these data is 1:5,000,000. The data were obtained from the US Census website.]</gco:CharacterString>
+</abstract>
+<purpose>
+<gco:CharacterString>This layer is intended for reference and mapping purposes and may be used for basic applications such as viewing, querying, and map output production or to provide a basemap to support graphical overlays and analysis with other spatial data.
+
+[These data are appropriate for use in local and regional demographic analysis. Attributes include the name, FIPS code and type of municipality. A municipality may be composed of more than one polygon. Boundaries are subject to change and should not be considered definitive. These data are appropriate for use in regional thematic analysis. The data are not appropriate as a geodetic, legal or engineering base. The data set was not and is not intended as a substitute for surveyed locations, such as can be determined by a registered Public Land Surveyor. Although useful in a GIS as a thematic, reference, or base layer for maps, the data set has no legal basis in the definition of boundaries or property lines.]</gco:CharacterString>
+</purpose>
+<credit>
+<gco:CharacterString>Illinois State Geological Survey 
+[United States Census Bureau]</gco:CharacterString>
+</credit>
+<status>
+<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+</status>
+<pointOfContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Illinois State Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(217)-333-4747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>615 E. Peabody</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Champaign</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>IL</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>61820</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>info@isgs.illinois.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</pointOfContact>
+<resourceMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="notPlanned" codeSpace="ISOTC211/19115">notPlanned</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+<contact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Illinois State Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(217)-333-4747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>615 E. Peabody</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Champaign</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>IL</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>61820</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>info@isgs.illinois.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+</MD_MaintenanceInformation>
+</resourceMaintenance>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Illinois</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>GeoNames</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Polygon</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>FGDC</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Cities and towns</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>LCSH</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Downloadable Data</gco:CharacterString>
+</keyword>
+<thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66">
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<resourceConstraints>
+<MD_Constraints>
+<useLimitation>
+<gco:CharacterString>Please see the UWM Libraries statement on Copyright and Digital Collections.[Reproduction or redistribution of copyrighted digital data sets or products derived therefrom outside of licensee's organization or entity is expressly forbidden. The only exception is redistribution to consultants working for the licensee, and then only for purposes, related to work for the licensee. Such consultants may not further reproduce or redistribute these data sets. None of these data shall be electronically duplicated on magnetic or optical media for use by others, in whole or in part, without the permission of DNR. Any hardcopies utilizing DNR data sets shall clearly indicate their source. If the licensee has modified the data in any way they are obligated to describe the types of modifications they have performed on the hardcopy map. Licensee specifically agrees not to misrepresent DNR data sets, nor to imply that changes they made were approved by DNR.]</gco:CharacterString>
+</useLimitation>
+</MD_Constraints>
+</resourceConstraints>
+<resourceConstraints>
+<MD_LegalConstraints>
+<useLimitation>
+<gco:CharacterString>Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.
+
+[The Illinois Department of Natural Resources (DNR) provides these geographic data "as is." DNR makes no guarantee or warranty concerning the accuracy of information contained in the geographic data. DNR further makes no warranties, either expressed or implied as to any other matter whatsoever, including, without limitation, the condition of the product, or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data have been processed successfully on computers of DNR, no warranty, expressed or implied, is made by DNR regarding the use of these data on any other system, nor does the fact of distribution constitute or imply any such warranty. In no event shall the DNR have any liability whatsoever for payment of any consequential, incidental, indirect, special, or tort damages of any kind, including, but not limited to, any loss of profits arising out of use of or reliance on the geographic data or arising out of the delivery, installation, operation, or support by DNR.]</gco:CharacterString>
+</useLimitation>
+<otherConstraints>
+<gco:CharacterString>None</gco:CharacterString>
+</otherConstraints>
+</MD_LegalConstraints>
+</resourceConstraints>
+<aggregationInfo>
+<MD_AggregateInformation>
+<aggregateDataSetName>
+<CI_Citation>
+<title>
+<gco:CharacterString>US Census Metadata</gco:CharacterString>
+</title>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2000-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>US Census</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="documentHardcopy" codeSpace="ISOTC211/19115">documentHardcopy</CI_PresentationFormCode>
+</presentationForm>
+<otherCitationDetails>
+<gco:CharacterString>Refer to this online metadata for more information on the source data.</gco:CharacterString>
+</otherCitationDetails>
+</CI_Citation>
+</aggregateDataSetName>
+<associationType>
+<DS_AssociationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="crossReference" codeSpace="ISOTC211/19115">crossReference</DS_AssociationTypeCode>
+</associationType>
+</MD_AggregateInformation>
+</aggregationInfo>
+<spatialRepresentationType>
+<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+</spatialRepresentationType>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<topicCategory>
+<MD_TopicCategoryCode>boundaries</MD_TopicCategoryCode>
+</topicCategory>
+<environmentDescription>
+<gco:CharacterString> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.1.9270</gco:CharacterString>
+</environmentDescription>
+<extent>
+<EX_Extent>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<extentTypeCode>
+<gco:Boolean>true</gco:Boolean>
+</extentTypeCode>
+<westBoundLongitude>
+<gco:Decimal>-91.466901</gco:Decimal>
+</westBoundLongitude>
+<eastBoundLongitude>
+<gco:Decimal>-87.522576</gco:Decimal>
+</eastBoundLongitude>
+<southBoundLatitude>
+<gco:Decimal>36.970298</gco:Decimal>
+</southBoundLatitude>
+<northBoundLatitude>
+<gco:Decimal>42.508284</gco:Decimal>
+</northBoundLatitude>
+</EX_GeographicBoundingBox>
+</geographicElement>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="IDVP3RKDZOBU5HO10TIUOQGKKM3F3O02UYDZSUYLORM342YXTHZZED">
+<gml:timePosition>2000-01-01T00:00:00</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</extent>
+<supplementalInformation>
+<gco:CharacterString>AGSL staff supplemented original metadata. For official metadata please see IL_Municipality_2000_py.f.html and IL_Municipality_2000_Py.html.
+
+[This edition of the data was added to ISGS holdings on 20060425.]</gco:CharacterString>
+</supplementalInformation>
+</MD_DataIdentification>
+</identificationInfo>
+<distributionInfo>
+<MD_Distribution>
+<distributionFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Shapefile</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>1.0</gco:CharacterString>
+</version>
+</MD_Format>
+</distributionFormat>
+<distributor>
+<MD_Distributor>
+<distributorContact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</distributorContact>
+<distributorFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Shapefile</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>1.0</gco:CharacterString>
+</version>
+</MD_Format>
+</distributorFormat>
+</MD_Distributor>
+</distributor>
+<distributor>
+<MD_Distributor>
+<distributorContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Illinois State Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(217)-333-4747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>615 E. Peabody</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Champaign</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>IL</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>61820</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>info@isgs.illinois.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</distributorContact>
+<distributorFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Shapefile</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>1.0</gco:CharacterString>
+</version>
+</MD_Format>
+</distributorFormat>
+</MD_Distributor>
+</distributor>
+<transferOptions>
+<MD_DigitalTransferOptions>
+<transferSize>
+<gco:Real>1.733</gco:Real>
+</transferSize>
+</MD_DigitalTransferOptions>
+</transferOptions>
+</MD_Distribution>
+</distributionInfo>
+<dataQualityInfo>
+<DQ_DataQuality>
+<scope>
+<DQ_Scope>
+<level>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</level>
+</DQ_Scope>
+</scope>
+<report>
+<DQ_AbsoluteExternalPositionalAccuracy>
+<measureDescription>
+<gco:CharacterString>[Boundaries are generalized from TIGER line data. Suggested scale is 1:500,000. Refer to the source information.]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_AbsoluteExternalPositionalAccuracy>
+</report>
+<report>
+<DQ_QuantitativeAttributeAccuracy>
+<measureDescription>
+<gco:CharacterString>Attribute information remains the same as given by the author of the data.</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_QuantitativeAttributeAccuracy>
+</report>
+<lineage>
+<LI_Lineage>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>[The data were downloaded in coverage format. Coverage was converted to a shapefile using ArcMap 9.1. Empty polygon feature class was created in SDE using field names as defined in GISDB.IL_ADMIN_Municipality_1990_Py. Data were loaded into the SDE feature class from the shapefile using the Load dialog of ArcCatalog 9.1. The attribute fields were mapped from shapefile to SDE feature class as follows: PLACEPF to FIPS_PLACE NAME to NAME LSAD_TRANS to TYPE Other attributes in the source were not included in the SDE feature class.]</gco:CharacterString>
+</description>
+<dateTime>
+<gco:DateTime>2006-04-25T00:00:00</gco:DateTime>
+</dateTime>
+<processor>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Illinois State Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(217)-333-4747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>615 E. Peabody</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Champaign</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>IL</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>61820</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>info@isgs.illinois.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>Changed name of file from IL_Municipality_2000.shp to Illinois_Municipalities_2000.shp.</gco:CharacterString>
+</description>
+<dateTime>
+<gco:DateTime>2020-01-06T00:00:00</gco:DateTime>
+</dateTime>
+<processor>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>[Municipal boundaries, FIPS place code, name, and type]</gco:CharacterString>
+</description>
+<scaleDenominator>
+<MD_RepresentativeFraction>
+<denominator>
+<gco:Integer>5000000</gco:Integer>
+</denominator>
+</MD_RepresentativeFraction>
+</scaleDenominator>
+<sourceCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Census 2000: Incorporated Places/Census Designated Places Boundary File</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>none</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2000-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>US Census</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>US Department of Commerce, Bureau of the Census.</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+<series>
+<CI_Series>
+<name>
+<gco:CharacterString>US Census Cartographic Boundary Files</gco:CharacterString>
+</name>
+<issueIdentification>
+<gco:CharacterString>pl17_d00_e00.zip</gco:CharacterString>
+</issueIdentification>
+</CI_Series>
+</series>
+</CI_Citation>
+</sourceCitation>
+<sourceExtent>
+<EX_Extent>
+<description>
+<gco:CharacterString>date of census</gco:CharacterString>
+</description>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="ID0EWOAE">
+<gml:timePosition>2000-01-01T00:00:00</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</sourceExtent>
+</LI_Source>
+</source>
+</LI_Lineage>
+</lineage>
+</DQ_DataQuality>
+</dataQualityInfo>
+<metadataConstraints>
+<MD_Constraints>
+<useLimitation>
+<gco:CharacterString>None</gco:CharacterString>
+</useLimitation>
+</MD_Constraints>
+</metadataConstraints>
+<metadataMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+<contact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+</MD_MaintenanceInformation>
+</metadataMaintenance>
+</MD_Metadata>

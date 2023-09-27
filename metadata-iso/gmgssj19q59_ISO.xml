@@ -1,0 +1,1900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<fileIdentifier>
+<gco:CharacterString>ark:/77981/gmgssj19q59</gco:CharacterString>
+</fileIdentifier>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<hierarchyLevel>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</hierarchyLevel>
+<hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</hierarchyLevelName>
+<contact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 8:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+<dateStamp>
+<gco:Date>2020-02-21</gco:Date>
+</dateStamp>
+<metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</metadataStandardName>
+<metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</metadataStandardVersion>
+<dataSetURI>
+<gco:CharacterString>https://geodata.uwm.edu/public/gmgssj19q59/DaneCounty_RoadCenterlines_2012.zip</gco:CharacterString>
+</dataSetURI>
+<spatialRepresentationInfo>
+<MD_VectorSpatialRepresentation>
+<topologyLevel>
+<MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+</topologyLevel>
+<geometricObjects>
+<MD_GeometricObjects>
+<geometricObjectType>
+<MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+</geometricObjectType>
+<geometricObjectCount>
+<gco:Integer>32498</gco:Integer>
+</geometricObjectCount>
+</MD_GeometricObjects>
+</geometricObjects>
+</MD_VectorSpatialRepresentation>
+</spatialRepresentationInfo>
+<referenceSystemInfo>
+<MD_ReferenceSystem>
+<referenceSystemIdentifier>
+<RS_Identifier>
+<code>
+<gco:CharacterString>103412</gco:CharacterString>
+</code>
+<codeSpace>
+<gco:CharacterString>Esri</gco:CharacterString>
+</codeSpace>
+<version>
+<gco:CharacterString>9.2.0</gco:CharacterString>
+</version>
+</RS_Identifier>
+</referenceSystemIdentifier>
+</MD_ReferenceSystem>
+</referenceSystemInfo>
+<identificationInfo>
+<MD_DataIdentification>
+<citation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Road Centerlines Dane County, Wisconsin 2012 </gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>DaneCounty_RoadCenterlines_2012</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2012-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<identifier>
+<MD_Identifier>
+<code>
+<gco:CharacterString>https://geodiscovery.uwm.edu/ark:-77981-gmgssj19q59</gco:CharacterString>
+</code>
+</MD_Identifier>
+</identifier>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+</CI_Citation>
+</citation>
+<abstract>
+<gco:CharacterString>This line data layer represents road centerlines for Dane County, Wisconsin in 2012. The dataset was originally published by the Dane County Land Information Office in 2012.[This layer is a detailed line coverage of the Dane County roadway network containing attributes such as street name and address ranges, ZIP codes, speed limits and routing.]</gco:CharacterString>
+</abstract>
+<purpose>
+<gco:CharacterString>This layer is intended for reference and mapping purposes and may be used for basic applications such as viewing, querying, and map output production or to provide a basemap to support graphical overlays and analysis with other spatial data.
+
+[A comprehensive street centerline and address range database to support Dane County geocoding, routing, and a cartographic product for official mapping.]</gco:CharacterString>
+</purpose>
+<credit>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</credit>
+<status>
+<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+</status>
+<pointOfContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</pointOfContact>
+<resourceMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="weekly" codeSpace="ISOTC211/19115">weekly</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+<contact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+</MD_MaintenanceInformation>
+</resourceMaintenance>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Dane County</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Wisconsin</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>GeoNames</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Line</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>FGDC</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Roads</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Streets</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>LCSH</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Downloadable Data</gco:CharacterString>
+</keyword>
+<thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66">
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<resourceConstraints>
+<MD_Constraints>
+<useLimitation>
+<gco:CharacterString>Please see the UWM Libraries statement on Copyright and Digital Collections. [Refer to the License Agreement for Dane County Digital Geographic Data Sets. URL: http://www.countyofdane.com/lio/Gis/licenseaggreement.pdf][Data is copyright and licensed for use.]</gco:CharacterString>
+</useLimitation>
+</MD_Constraints>
+</resourceConstraints>
+<resourceConstraints>
+<MD_LegalConstraints>
+<useLimitation>
+<gco:CharacterString>Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.
+
+[The burden for determining 'fitness for use' rests entirely upon the requester/Licensee. Dane County and its co-producers will not be liable in any way for accuracy of the data or for uses other than intended. Dane County assumes no responsibility whatsoever for direct, indirect, special, consequential, exemplary or other damages. Licensee agrees to indemnify, hold harmless and defend Dane County, its employees, agents, representatives and co-producers from any claims, damages, liabilities and expenses arising from Licensee's use of licensed data sets or products derived there from.]</gco:CharacterString>
+</useLimitation>
+<otherConstraints>
+<gco:CharacterString>[Data is copyright and licensed for use.]</gco:CharacterString>
+</otherConstraints>
+</MD_LegalConstraints>
+</resourceConstraints>
+<spatialRepresentationType>
+<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+</spatialRepresentationType>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<topicCategory>
+<MD_TopicCategoryCode>transportation</MD_TopicCategoryCode>
+</topicCategory>
+<environmentDescription>
+<gco:CharacterString> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.1.9270</gco:CharacterString>
+</environmentDescription>
+<extent>
+<EX_Extent>
+<description>
+<gco:CharacterString>ground condition &amp; official records</gco:CharacterString>
+</description>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="IDQ2FIPDV1DZZFMLPA3MJZ1ZDYAIK3XBTXOXHAESFCJRMLYEYGPUGN">
+<gml:timePosition>2012-05-30T00:00:00</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</extent>
+<extent>
+<EX_Extent>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<extentTypeCode>
+<gco:Boolean>true</gco:Boolean>
+</extentTypeCode>
+<westBoundLongitude>
+<gco:Decimal>-89.840842</gco:Decimal>
+</westBoundLongitude>
+<eastBoundLongitude>
+<gco:Decimal>-89.008099</gco:Decimal>
+</eastBoundLongitude>
+<southBoundLatitude>
+<gco:Decimal>42.844312</gco:Decimal>
+</southBoundLatitude>
+<northBoundLatitude>
+<gco:Decimal>43.294196</gco:Decimal>
+</northBoundLatitude>
+</EX_GeographicBoundingBox>
+</geographicElement>
+</EX_Extent>
+</extent>
+<supplementalInformation>
+<gco:CharacterString>Augmented original metadata with AGSL specific elements. For official metadata contact the resource Point of Contact. Also see RoadCenterlines.htm.</gco:CharacterString>
+</supplementalInformation>
+</MD_DataIdentification>
+</identificationInfo>
+<distributionInfo>
+<MD_Distribution>
+<distributionFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Shapefile</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>1.0</gco:CharacterString>
+</version>
+</MD_Format>
+</distributionFormat>
+<distributor>
+<MD_Distributor>
+<distributorContact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 8:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</distributorContact>
+<distributorFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Shapefile</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>1.0</gco:CharacterString>
+</version>
+</MD_Format>
+</distributorFormat>
+</MD_Distributor>
+</distributor>
+<distributor>
+<MD_Distributor>
+<distributorContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</distributorContact>
+<distributorFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Shapefile</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>1.0</gco:CharacterString>
+</version>
+</MD_Format>
+</distributorFormat>
+</MD_Distributor>
+</distributor>
+<transferOptions>
+<MD_DigitalTransferOptions>
+<transferSize>
+<gco:Real>6.098</gco:Real>
+</transferSize>
+</MD_DigitalTransferOptions>
+</transferOptions>
+</MD_Distribution>
+</distributionInfo>
+<dataQualityInfo>
+<DQ_DataQuality>
+<scope>
+<DQ_Scope>
+<level>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</level>
+</DQ_Scope>
+</scope>
+<report>
+<DQ_TopologicalConsistency>
+<evaluationMethodDescription>
+<gco:CharacterString>[The data set is topologically structured line data with no gaps or omissions.]</gco:CharacterString>
+</evaluationMethodDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_TopologicalConsistency>
+</report>
+<report>
+<DQ_ConceptualConsistency>
+<measureDescription>
+<gco:CharacterString>[The data set is topologically structured line data with no gaps or omissions.]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_ConceptualConsistency>
+</report>
+<report>
+<DQ_CompletenessOmission>
+<measureDescription>
+<gco:CharacterString>[The data set is complete for roads that were constructed or platted thru 2011.]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_CompletenessOmission>
+</report>
+<report>
+<DQ_QuantitativeAttributeAccuracy>
+<measureDescription>
+<gco:CharacterString>[The road centerline attributes are reviewed by the Dane County Land Information Office (LIO). Errors from municpalites, Dane County Plannign &amp; Development and Dane County 911 Communications are reported and corrected by the LIO. The centerline data is published on a weekly basis.]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_QuantitativeAttributeAccuracy>
+</report>
+<report>
+<DQ_AbsoluteExternalPositionalAccuracy>
+<measureDescription>
+<gco:CharacterString>[The data set meets the National Map Accuracy Standards for the scale 1:2,400 (or 1"=200'). The horizontal accuracy is +/- 6 feet for well-defined points, at a ninety percent confidence level. (Fly Dane 2000 Accuracy Report, Ayres Associates)]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_AbsoluteExternalPositionalAccuracy>
+</report>
+<report>
+<DQ_QuantitativeAttributeAccuracy>
+<measureDescription>
+<gco:CharacterString>Attribute information remains the same as given by the author of the data.</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_QuantitativeAttributeAccuracy>
+</report>
+<lineage>
+<LI_Lineage>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>[The Land Information Office updates the street network with centerline data that was developed from recent orthophotography and road right-of-way centerline data that was part the parcel database. Additional assistance with problem areas was provided by local municipalities.]</gco:CharacterString>
+</description>
+<processor>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>[The Dane County road centerline data was first develop in 1995 as part of a 1-meter resolution orthophotography project. The data consisted of basic geometry only.]</gco:CharacterString>
+</description>
+<dateTime>
+<gco:DateTime>1995-01-01T00:00:00</gco:DateTime>
+</dateTime>
+<processor>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr Blvd</gco:CharacterString>
+</deliveryPoint>
+<deliveryPoint>
+<gco:CharacterString>Room 339</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>lio.web.mail@countyofdane.com</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday - Friday 7:45 AM to 4:30 PM</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="author" codeSpace="ISOTC211/19115">author</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>[In 1997 and 1998 the Dane County Regional Planning Organization built on the 1995 geometry by adding transportation planning attributes and doing some limited data clean up. The work done focused on developing a dataset that could be used for transportation modeling.]</gco:CharacterString>
+</description>
+<dateTime>
+<gco:DateTime>1998-01-01T00:00:00</gco:DateTime>
+</dateTime>
+<processor>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Regional Planning Commission</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>[A new road centerline data was created as part of the Fly Dane 2000 project. The dataset was produced from breaklines created in the terrain modeling process. The centerlines were exported from the DTM to a vector file. The Dane County Land Information Office QA/QC the data and added any missing segments.]</gco:CharacterString>
+</description>
+<dateTime>
+<gco:DateTime>2000-01-01T00:00:00</gco:DateTime>
+</dateTime>
+<processor>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>Fred Iausly</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Senior GIS Analyst</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(608) 266-4398</gco:CharacterString>
+</voice>
+<facsimile>
+<gco:CharacterString>(608) 266-1242</gco:CharacterString>
+</facsimile>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr. Blvd, Room 360</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>iausly@co.dane.wi.us</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Normal Business Hours (8:00am - 4:30pm)</gco:CharacterString>
+</hoursOfService>
+<contactInstructions>
+<gco:CharacterString>Additional Contact Persons: Tim Confare (Senior GIS Analyst) (608) 267-1598</gco:CharacterString>
+</contactInstructions>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>[In 2003 Short Elliot &amp; Hendrickson, Inc. attached county and Madison Area Metropolitan Planning Organization attribute information contained in the 1995 road centerline file, and developed a master street name database to manage roadway name attributes. The master street name database received from SEH was a first compilation from best available regulatory sources. Street names were reviewed and reconciled with help of the County Surveyor, Highway Department, 911 and LIO. Conflicts with town road names were resolved using Dane County rural address maps. City and village road names were acquired from the County Clerk (based on municipal clerk reporting) and supplemented with names from county parcel maps as needed. Conflicts with city and village road names were resolved using county parcel maps. Location conflicts were resolved using these same data sets, together with the Dane County Road Map, plat books and other mapping resources. The LIO completed a detailed quality review for connectivity of roadway segments and completeness of attribution. The data set was completely reviewed by several departments and agencies that included the County Surveyor, Highway, Madison Area Metropolitan Planning Organization. Additionally, data from the City of Fitchburg and City of Sun Prairie was used to review the related street names. Private drives of 250 feet or greater, based from the 2000 orthophotography, where also added.]</gco:CharacterString>
+</description>
+<dateTime>
+<gco:DateTime>2003-01-01T00:00:00</gco:DateTime>
+</dateTime>
+<processor>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>Fred Iausly</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Senior GIS Analyst</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(608) 266-4398</gco:CharacterString>
+</voice>
+<facsimile>
+<gco:CharacterString>(608) 266-1242</gco:CharacterString>
+</facsimile>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr. Blvd, Room 360</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>iausly@co.dane.wi.us</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Normal Business Hours (8:00am - 4:30pm)</gco:CharacterString>
+</hoursOfService>
+<contactInstructions>
+<gco:CharacterString>Additional Contact Persons: Tim Confare (Senior GIS Analyst) (608) 267-1598</gco:CharacterString>
+</contactInstructions>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>[In 2005 RA Smith updated the street network by adding new street segments that were part the 2004 parcel archive. These segments were then stitched into the existing linework. RA Smith also develop preliminary address ranges through an automated process that developed address range from the Dane County parcel database and attaching them to the street segments. The LIO completed a detailed quality review of the address range attribution. Additionally, the City of Fitchburg, City of Sun Prairie and Madison Area Metropolitan Planning Organization assisted in reviewing the address ranges for their respective communities.]</gco:CharacterString>
+</description>
+<dateTime>
+<gco:DateTime>2005-01-01T00:00:00</gco:DateTime>
+</dateTime>
+<processor>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>Fred Iausly</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Senior GIS Analyst</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(608) 266-4398</gco:CharacterString>
+</voice>
+<facsimile>
+<gco:CharacterString>(608)266-1242</gco:CharacterString>
+</facsimile>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr. Blvd, Room 360</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>iausly@co.dane.wi.us</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Normal Business Hours: 8:00am - 4:30pm</gco:CharacterString>
+</hoursOfService>
+<contactInstructions>
+<gco:CharacterString>Additional Contact Persons: Tim Confare (Senior GIS Analyst) (608 267-1598</gco:CharacterString>
+</contactInstructions>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>[In 2006 the Land Information Office updated the street network with centerline data that was developed from the 2005 orthophoto project and road right-of-way centerline data that was part the 2005 parcel archive. Digital source information was provided by the Madison Area Metropolitan Planning Organization. Additional assistance with problem areas was provided by the City of Sun Prairie, City of Fitchburg, City of Verona and Madison Area Metropolitan Planning Organization.]</gco:CharacterString>
+</description>
+<dateTime>
+<gco:DateTime>2006-01-01T00:00:00</gco:DateTime>
+</dateTime>
+<processor>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>Fred Iausly</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>Senior GIS Analyst</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(608) 266-4398</gco:CharacterString>
+</voice>
+<facsimile>
+<gco:CharacterString>(608) 266-1242</gco:CharacterString>
+</facsimile>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>210 Martin Luther King Jr. Blvd, Room 360</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Madison</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53703</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>iausly@co.dane.wi.us</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Normal Business Hours: 8:00am - 4:30pm</gco:CharacterString>
+</hoursOfService>
+<contactInstructions>
+<gco:CharacterString>Additional Contact Persons: Tim Confare (Senior GIS Analyst) (608) 267-1598</gco:CharacterString>
+</contactInstructions>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>Changed name of file from RoadCenterlines.shp to DaneCounty_RoadCenterlines_2012.shp.</gco:CharacterString>
+</description>
+<dateTime>
+<gco:DateTime>2020-02-21T00:00:00</gco:DateTime>
+</dateTime>
+<processor>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 8:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>[The Dane County Land Information Office extracted the road right-of-way centerline from the 2005 archived parcel linework.]</gco:CharacterString>
+</description>
+<scaleDenominator>
+<MD_RepresentativeFraction>
+<denominator>
+<gco:Integer>2400</gco:Integer>
+</denominator>
+</MD_RepresentativeFraction>
+</scaleDenominator>
+<sourceCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Dane County 2005 Parcel Archive</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>Dane County 2005 Parcel Archive</gco:CharacterString>
+</alternateTitle>
+<date gco:nilReason="missing">
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Planning &amp; Development</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+</CI_Citation>
+</sourceCitation>
+<sourceExtent>
+<EX_Extent>
+<description>
+<gco:CharacterString>[ground condition &amp; official records]</gco:CharacterString>
+</description>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="ID5L1XHYRHDOD1EEZLFBOWNNQE4JKWIPDRE3WG2KKQF33WIP5IARAJ">
+<gml:timePosition>2005-12-31</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</sourceExtent>
+</LI_Source>
+</source>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>[As part of the Fly Dane 2000 project, Ayres Associates, Madison, WI provided photogrammetrically derived road centerlines from the 1-foot resolution imagery.]</gco:CharacterString>
+</description>
+<scaleDenominator>
+<MD_RepresentativeFraction>
+<denominator>
+<gco:Integer>2400</gco:Integer>
+</denominator>
+</MD_RepresentativeFraction>
+</scaleDenominator>
+<sourceCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Dane County (WI) 2000 Road Centerlines</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>Dane County 2000 Road Centerlines</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2001-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Madison, Wisconsin</gco:CharacterString>
+</deliveryPoint>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+</CI_Citation>
+</sourceCitation>
+<sourceExtent>
+<EX_Extent>
+<description>
+<gco:CharacterString>[ground condition]</gco:CharacterString>
+</description>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="ID4IATC4JUYS2UHOG3Z0CL3V1BIJZSZRS0XHQXHMEFFD35LYY4MMBJ">
+<gml:timePosition>2000-04-15</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</sourceExtent>
+</LI_Source>
+</source>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>[In 1997 and 1998 the Dane County RPC cleaned the geometry and added transportation planning attributes.]</gco:CharacterString>
+</description>
+<scaleDenominator>
+<MD_RepresentativeFraction>
+<denominator>
+<gco:Integer>12000</gco:Integer>
+</denominator>
+</MD_RepresentativeFraction>
+</scaleDenominator>
+<sourceCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Dane County Transportation Network</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>Dane County RPC Roads</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>1998-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Regional Planning Commission</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Madison, Wisconsin</gco:CharacterString>
+</deliveryPoint>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Regional Planning Commission</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+</CI_Citation>
+</sourceCitation>
+<sourceExtent>
+<EX_Extent>
+<description>
+<gco:CharacterString>[publication date]</gco:CharacterString>
+</description>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="IDKP3KLFEHXMZDMEM4SFXI04SAHN5JDJQZSZTNZLE2M2KLCDEDTQWO">
+<gml:timePosition>1998-01-01</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</sourceExtent>
+</LI_Source>
+</source>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>[As part of the 1995 orthophotography project, Ayres Associates, Madison, WI provided photogrammetrically derived road centerlines from the 1-meter resolution imagery.]</gco:CharacterString>
+</description>
+<scaleDenominator>
+<MD_RepresentativeFraction>
+<denominator>
+<gco:Integer>12000</gco:Integer>
+</denominator>
+</MD_RepresentativeFraction>
+</scaleDenominator>
+<sourceCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Dane County (WI) 1995 Road Centerlines</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>Dane County 1995 Centerlines</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>1995-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Madison, Wisconsin</gco:CharacterString>
+</deliveryPoint>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+</CI_Citation>
+</sourceCitation>
+<sourceExtent>
+<EX_Extent>
+<description>
+<gco:CharacterString>[ground condition]</gco:CharacterString>
+</description>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="ID4KVZXWUVMKCTD0H23FB4FUUBRPEJ3O5TL0AVWPCA14Y2D3U4VXCL">
+<gml:timePosition>1995-04-15</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</sourceExtent>
+</LI_Source>
+</source>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>[As part of the Fly Dane 2005 project, Ayres Associates, Madison, WI provided photogrammetrically derived road centerlines from the 1-foot resolution imagery.]</gco:CharacterString>
+</description>
+<scaleDenominator>
+<MD_RepresentativeFraction>
+<denominator>
+<gco:Integer>2400</gco:Integer>
+</denominator>
+</MD_RepresentativeFraction>
+</scaleDenominator>
+<sourceCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Dane County (WI) 2000 Road Centerlines</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>Dane County 2005 Road Centerlines</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2005-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Madison, Wisconsin</gco:CharacterString>
+</deliveryPoint>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+</CI_Citation>
+</sourceCitation>
+</LI_Source>
+</source>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>[In 2005 RA Smith, Brookfield, WI updated the 2000 street centerline data and developed address range information. The Dane County Land Information Office then completed a detailed quality review of the data.]</gco:CharacterString>
+</description>
+<scaleDenominator>
+<MD_RepresentativeFraction>
+<denominator>
+<gco:Integer>2400</gco:Integer>
+</denominator>
+</MD_RepresentativeFraction>
+</scaleDenominator>
+<sourceCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Dane County (WI) 2004 Road Centerlines and Address Ranges</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>2004 Street Centerline and Address Ranges, Dane County (WI)</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2005-08-05</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Madison, Wisconsin</gco:CharacterString>
+</deliveryPoint>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+</CI_Citation>
+</sourceCitation>
+<sourceExtent>
+<EX_Extent>
+<description>
+<gco:CharacterString>[ground condition &amp; official records]</gco:CharacterString>
+</description>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="ID0FR52J3T3EGTN5TLZ5R5J204TI3DXKJT1INEOHJNPKEM4YRCEA5">
+<gml:timePosition>2005-08-05</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</sourceExtent>
+</LI_Source>
+</source>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>[The Dane County Land Information Office did a detailed review of the roadway connectivity and attribute completeness, added street names and private drives over 250 feet.]</gco:CharacterString>
+</description>
+<scaleDenominator>
+<MD_RepresentativeFraction>
+<denominator>
+<gco:Integer>2400</gco:Integer>
+</denominator>
+</MD_RepresentativeFraction>
+</scaleDenominator>
+<sourceCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Dane County 2003 Road Centerlines</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>Dane County 2003 Road Centerlines</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2003-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Madison, Wisconsin</gco:CharacterString>
+</deliveryPoint>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+</CI_Citation>
+</sourceCitation>
+<sourceExtent>
+<EX_Extent>
+<description>
+<gco:CharacterString>[ground condition]</gco:CharacterString>
+</description>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="IDBSRUFKRWY0AKCV1SQMXQBSAN4MLZEHHSZEWMHVOS2IRBT11GO5KI">
+<gml:timePosition>2003-01-01</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</sourceExtent>
+</LI_Source>
+</source>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>[Short Elliot &amp; Hendrick, Inc., Madison, WI attached County and Madison Area Metropolitan Planning Organization attribute information contained in the 1995 road centerline data, developed a master street name file that they linked to the data and added routing attributes to support Dane County Highway Department.]</gco:CharacterString>
+</description>
+<scaleDenominator>
+<MD_RepresentativeFraction>
+<denominator>
+<gco:Integer>2400</gco:Integer>
+</denominator>
+</MD_RepresentativeFraction>
+</scaleDenominator>
+<sourceCitation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Dane County (WI) 2000 Road Centerlines</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>Dane County 2000 Road Centerlines</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2003-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>Madison, Wisconsin</gco:CharacterString>
+</deliveryPoint>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="publisher" codeSpace="ISOTC211/19115">publisher</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>Dane County Land Information Office</gco:CharacterString>
+</organisationName>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+</CI_Citation>
+</sourceCitation>
+<sourceExtent>
+<EX_Extent>
+<description>
+<gco:CharacterString>[ground condition]</gco:CharacterString>
+</description>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="IDLTOFJB3XIOLQOKI4PAAALCANXMR1C244EQFIFLCPC1FG1UQMTHXG">
+<gml:timePosition>2003-01-01T00:00:00</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</sourceExtent>
+</LI_Source>
+</source>
+<source>
+<LI_Source>
+<description>
+<gco:CharacterString>[As part of the Fly Dane 2009/2010 project, Ayres Associates, Madison, WI provided 1-foot resolution imagery.]</gco:CharacterString>
+</description>
+<scaleDenominator>
+<MD_RepresentativeFraction>
+<denominator>
+<gco:Integer>2400</gco:Integer>
+</denominator>
+</MD_RepresentativeFraction>
+</scaleDenominator>
+</LI_Source>
+</source>
+</LI_Lineage>
+</lineage>
+</DQ_DataQuality>
+</dataQualityInfo>
+<metadataConstraints>
+<MD_Constraints>
+<useLimitation>
+<gco:CharacterString>None</gco:CharacterString>
+</useLimitation>
+</MD_Constraints>
+</metadataConstraints>
+<metadataMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+<contact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 8:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+</MD_MaintenanceInformation>
+</metadataMaintenance>
+</MD_Metadata>

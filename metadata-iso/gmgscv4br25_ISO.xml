@@ -1,0 +1,863 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<fileIdentifier>
+<gco:CharacterString>ark:/77981/gmgscv4br25</gco:CharacterString>
+</fileIdentifier>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<hierarchyLevel>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</hierarchyLevel>
+<hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</hierarchyLevelName>
+<contact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+<dateStamp>
+<gco:Date>2020-01-07</gco:Date>
+</dateStamp>
+<metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</metadataStandardName>
+<metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</metadataStandardVersion>
+<dataSetURI>
+<gco:CharacterString>https://geodata.uwm.edu/public/gmgscv4br25/UnitedStates_UrbanRails_2004.zip</gco:CharacterString>
+</dataSetURI>
+<spatialRepresentationInfo>
+<MD_VectorSpatialRepresentation>
+<topologyLevel>
+<MD_TopologyLevelCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_TopologyLevelCode" codeListValue="geometryOnly" codeSpace="ISOTC211/19115">geometryOnly</MD_TopologyLevelCode>
+</topologyLevel>
+<geometricObjects>
+<MD_GeometricObjects>
+<geometricObjectType>
+<MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="point" codeSpace="ISOTC211/19115">point</MD_GeometricObjectTypeCode>
+</geometricObjectType>
+<geometricObjectCount>
+<gco:Integer>2511</gco:Integer>
+</geometricObjectCount>
+</MD_GeometricObjects>
+</geometricObjects>
+<geometricObjects>
+<MD_GeometricObjects>
+<geometricObjectType>
+<MD_GeometricObjectTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_GeometricObjectTypeCode" codeListValue="composite" codeSpace="ISOTC211/19115">composite</MD_GeometricObjectTypeCode>
+</geometricObjectType>
+<geometricObjectCount>
+<gco:Integer>2570</gco:Integer>
+</geometricObjectCount>
+</MD_GeometricObjects>
+</geometricObjects>
+</MD_VectorSpatialRepresentation>
+</spatialRepresentationInfo>
+<referenceSystemInfo>
+<MD_ReferenceSystem>
+<referenceSystemIdentifier>
+<RS_Identifier>
+<code>
+<gco:CharacterString>3857</gco:CharacterString>
+</code>
+<codeSpace>
+<gco:CharacterString>EPSG</gco:CharacterString>
+</codeSpace>
+<version>
+<gco:CharacterString>9.6.3</gco:CharacterString>
+</version>
+</RS_Identifier>
+</referenceSystemIdentifier>
+</MD_ReferenceSystem>
+</referenceSystemInfo>
+<identificationInfo>
+<MD_DataIdentification>
+<citation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Urban Rails United States 2004</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>UnitedStates_UrbanRails_2004</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2007-01-01</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<identifier>
+<MD_Identifier>
+<code>
+<gco:CharacterString>https://geodiscovery.uwm.edu/ark:-77981-gmgscv4br25</gco:CharacterString>
+</code>
+</MD_Identifier>
+</identifier>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>United States Department of Transportation-Bureau of Transportation Statistics</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>800-853-1351</gco:CharacterString>
+</voice>
+<voice>
+<gco:CharacterString>202-366-3282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>1200 New Jersey Avenue, SE</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Washington</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>D.C.</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>20590</gco:CharacterString>
+</postalCode>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>United States Department of Transportation-Bureau of Transportation Statistics</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>800-853-1351</gco:CharacterString>
+</voice>
+<voice>
+<gco:CharacterString>202-366-3282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>1200 New Jersey Avenue, SE</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Washington</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>D.C.</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>20590</gco:CharacterString>
+</postalCode>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+<otherCitationDetails>
+<gco:CharacterString>Date Acquired: June 2007</gco:CharacterString>
+</otherCitationDetails>
+</CI_Citation>
+</citation>
+<abstract>
+<gco:CharacterString>These line and point data layers represent urban rail links and stops for the United States in 2004. They are feature classes within the geodatabase UnitedStates_UrbanRails_2004.gdb.The dataset was originally published by the United States Department of Transportation-Bureau of Transportation Statistics in 2007.[Version 2004 of the Fixed-Guideway Transit Network is a network database of the nation's fixed-guideway transit systems. The data set covers systems in cities defined as FTA's universe of cities and includes heavy rail, light rail, monorail, cable car, inclined plane, and automated guideway.]</gco:CharacterString>
+</abstract>
+<purpose>
+<gco:CharacterString>This layer is intended for reference and mapping purposes and may be used for basic applications such as viewing, querying, and map output production or to provide a basemap to support graphical overlays and analysis with other spatial data.
+
+[The data provide users with information about the location and type of fixed-guideway transit and terminal facilities primarily for regional cartographic, spatial and network analysis purposes.]</gco:CharacterString>
+</purpose>
+<credit>
+<gco:CharacterString>United States Department of Transportation-Bureau of Transportation Statistics Bureau of Transportation Statistics </gco:CharacterString>
+</credit>
+<status>
+<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+</status>
+<pointOfContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>United States Department of Transportation-Bureau of Transportation Statistics</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>800-853-1351</gco:CharacterString>
+</voice>
+<voice>
+<gco:CharacterString>202-366-3282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>1200 New Jersey Avenue, SE</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Washington</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>D.C.</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>20590</gco:CharacterString>
+</postalCode>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</pointOfContact>
+<resourceMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="irregular" codeSpace="ISOTC211/19115">irregular</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+<contact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>United States Department of Transportation-Bureau of Transportation Statistics</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>800-853-1351</gco:CharacterString>
+</voice>
+<voice>
+<gco:CharacterString>202-366-3282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>1200 New Jersey Avenue, SE</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Washington</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>D.C.</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>20590</gco:CharacterString>
+</postalCode>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+</MD_MaintenanceInformation>
+</resourceMaintenance>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>United States</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>GeoNames</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Line</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Point</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>FGDC</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Transportation</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Monorail railroads</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Cable cars (Streetcars)</gco:CharacterString>
+</keyword>
+<keyword>
+<gco:CharacterString>Street-railroads</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>LCSH</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Downloadable Data</gco:CharacterString>
+</keyword>
+<thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66">
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<resourceConstraints>
+<MD_Constraints>
+<useLimitation>
+<gco:CharacterString>Please see the UWM Libraries statement on Copyright and Digital Collections.[Acknowledgment of the Research and Innovative Technology Administration's Bureau of Transportation Statistics (RITA/BTS) National Transportation Atlas Databases (NTAD) 2006 would be appreciated in products derived from these data.]</gco:CharacterString>
+</useLimitation>
+</MD_Constraints>
+</resourceConstraints>
+<resourceConstraints>
+<MD_LegalConstraints>
+<useLimitation>
+<gco:CharacterString>Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.
+
+[None.]</gco:CharacterString>
+</useLimitation>
+<otherConstraints>
+<gco:CharacterString>None</gco:CharacterString>
+</otherConstraints>
+</MD_LegalConstraints>
+</resourceConstraints>
+<spatialRepresentationType>
+<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+</spatialRepresentationType>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<topicCategory>
+<MD_TopicCategoryCode>transportation</MD_TopicCategoryCode>
+</topicCategory>
+<environmentDescription>
+<gco:CharacterString> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.1.9270</gco:CharacterString>
+</environmentDescription>
+<extent>
+<EX_Extent>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<extentTypeCode>
+<gco:Boolean>true</gco:Boolean>
+</extentTypeCode>
+<westBoundLongitude>
+<gco:Decimal>-126.734695</gco:Decimal>
+</westBoundLongitude>
+<eastBoundLongitude>
+<gco:Decimal>-68.196172</gco:Decimal>
+</eastBoundLongitude>
+<southBoundLatitude>
+<gco:Decimal>24.399918</gco:Decimal>
+</southBoundLatitude>
+<northBoundLatitude>
+<gco:Decimal>50.596491</gco:Decimal>
+</northBoundLatitude>
+</EX_GeographicBoundingBox>
+</geographicElement>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="IDE4AEI4Y212VPOOTUQNK24Z0CGF3ALNVNU0E1TNGIKMY4BDAFBCFP">
+<gml:timePosition>2004-01-01T00:00:00</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</extent>
+<supplementalInformation>
+<gco:CharacterString>AGSL staff supplemented original metadata. For official metadata please see Urban Rail Links.htm and Urban Rail Stops.htm.</gco:CharacterString>
+</supplementalInformation>
+</MD_DataIdentification>
+</identificationInfo>
+<distributionInfo>
+<MD_Distribution>
+<distributionFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>File Geodatabase Feature Dataset</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>10.3</gco:CharacterString>
+</version>
+</MD_Format>
+</distributionFormat>
+<distributor>
+<MD_Distributor>
+<distributorContact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</distributorContact>
+<distributorFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>File Geodatabase Feature Dataset</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>10.3</gco:CharacterString>
+</version>
+</MD_Format>
+</distributorFormat>
+</MD_Distributor>
+</distributor>
+<distributor>
+<MD_Distributor>
+<distributorContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>United States Department of Transportation-Bureau of Transportation Statistics</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>800-853-1351</gco:CharacterString>
+</voice>
+<voice>
+<gco:CharacterString>202-366-3282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>1200 New Jersey Avenue, SE</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Washington</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>D.C.</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>20590</gco:CharacterString>
+</postalCode>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</distributorContact>
+<distributorFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>File Geodatabase Feature Dataset</gco:CharacterString>
+</name>
+<version>
+<gco:CharacterString>10.3</gco:CharacterString>
+</version>
+</MD_Format>
+</distributorFormat>
+</MD_Distributor>
+</distributor>
+</MD_Distribution>
+</distributionInfo>
+<dataQualityInfo>
+<DQ_DataQuality>
+<scope>
+<DQ_Scope>
+<level>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</level>
+</DQ_Scope>
+</scope>
+<report>
+<DQ_QuantitativeAttributeAccuracy>
+<measureDescription>
+<gco:CharacterString>Attribute information remains the same as given by the author of the data.</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_QuantitativeAttributeAccuracy>
+</report>
+<report>
+<DQ_ConceptualConsistency>
+<measureDescription>
+<gco:CharacterString>[This database contains fixed-guideway transit features for agencies identified by RITA/BTS. Additional agencies may be added to complete the coverage as work progresses.]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_ConceptualConsistency>
+</report>
+<report>
+<DQ_CompletenessCommission>
+<measureDescription>
+<gco:CharacterString>[Data were processed for FTA's universe of cities based on the availability of source data from FTA, RITA/BTS, or local transit agencies. At this time, coverage is incomplete for the New York City are due to the lack of availability of local transit data.]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_CompletenessCommission>
+</report>
+<report>
+<DQ_QuantitativeAttributeAccuracy>
+<measureDescription>
+<gco:CharacterString>[Attribute information was obtained from individual transit agencies through telephone conversations, GIS data, transit agency websites, transit agency maps and schedules, and other traveler information systems. Data include a SOURCE field that identifies the original source of the data.]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_QuantitativeAttributeAccuracy>
+</report>
+<report>
+<DQ_AbsoluteExternalPositionalAccuracy>
+<measureDescription>
+<gco:CharacterString>[Right-of-ways for fixed guideways were developed from GIS data provided by FTA, RITA/BTS and local transit agencies. In most cases, the source data are very accurate and complete. In rare cases where the lines were digitized, DOQQ's for the local area were used as a reference for heads-up digitizing. Station locations were verified using street maps, local DOQQ's and USGS DOQ's which were available via the internet from a variety of publically available data clearinghouses. Data include a SOURCE field that identifies the original source of the data.]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_AbsoluteExternalPositionalAccuracy>
+</report>
+<lineage>
+<LI_Lineage>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>[Source data were compiled from a number of transit sources. The SOURCE field identifies the original source of the data. The source data were checked for duplicate arcs, connectivity problems such as dangles were corrected. All stations were checked for existence and added when necessary. Nodes were added to the Network at Station locations to facilitate routing . Psuedo Nodes where arcs cross without a station are flagged Status = 9.]</gco:CharacterString>
+</description>
+<processor>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>University of Tennessee Center for Transportation Research</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>865-974-5255</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>309 Conference Center Building</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Knoxville </gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>TN </gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>37996-4133</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>ctr@utk.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="processor" codeSpace="ISOTC211/19115">processor</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>Changed name of files from Urban_Rail_Links.shp and Urban_Rail_Stops.shp to UnitedStates_UrbanRailsLinks_2004.shp and UnitedStates_UrbanRailsStops_2004.shp. A new file geodatabase was created named UnitedStates_UrbanRails_2004.gdb and the shapefiles were imported into a feature dataset named UnitedStates_UrbanRails_2004.</gco:CharacterString>
+</description>
+<dateTime>
+<gco:DateTime>2020-01-07T00:00:00</gco:DateTime>
+</dateTime>
+<processor>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+</LI_Lineage>
+</lineage>
+</DQ_DataQuality>
+</dataQualityInfo>
+<metadataConstraints>
+<MD_Constraints>
+<useLimitation>
+<gco:CharacterString>None</gco:CharacterString>
+</useLimitation>
+</MD_Constraints>
+</metadataConstraints>
+<metadataMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+<contact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+</MD_MaintenanceInformation>
+</metadataMaintenance>
+</MD_Metadata>
