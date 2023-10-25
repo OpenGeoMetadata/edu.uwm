@@ -1,0 +1,909 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<fileIdentifier>
+<gco:CharacterString>ark:/77981/gmgswh2dd8x</gco:CharacterString>
+</fileIdentifier>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<hierarchyLevel>
+<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+</hierarchyLevel>
+<hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</hierarchyLevelName>
+<contact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+<dateStamp>
+<gco:Date>2020-03-04</gco:Date>
+</dateStamp>
+<metadataStandardName>
+<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+</metadataStandardName>
+<metadataStandardVersion>
+<gco:CharacterString>2007</gco:CharacterString>
+</metadataStandardVersion>
+<dataSetURI>
+<gco:CharacterString>https://geodata.uwm.edu/public/gmgswh2dd8x/Colorado_LandCover_2000.zip</gco:CharacterString>
+</dataSetURI>
+<spatialRepresentationInfo>
+<MD_Georectified>
+<numberOfDimensions>
+<gco:Integer>2</gco:Integer>
+</numberOfDimensions>
+<axisDimensionProperties>
+<MD_Dimension>
+<dimensionName>
+<MD_DimensionNameTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_DimensionNameTypeCode" codeListValue="column" codeSpace="ISOTC211/19115">column</MD_DimensionNameTypeCode>
+</dimensionName>
+<dimensionSize>
+<gco:Integer>21418</gco:Integer>
+</dimensionSize>
+<resolution>
+<gco:Measure uom="m">30.000000</gco:Measure>
+</resolution>
+</MD_Dimension>
+</axisDimensionProperties>
+<axisDimensionProperties>
+<MD_Dimension>
+<dimensionName>
+<MD_DimensionNameTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_DimensionNameTypeCode" codeListValue="row" codeSpace="ISOTC211/19115">row</MD_DimensionNameTypeCode>
+</dimensionName>
+<dimensionSize>
+<gco:Integer>16915</gco:Integer>
+</dimensionSize>
+<resolution>
+<gco:Measure uom="m">30.000000</gco:Measure>
+</resolution>
+</MD_Dimension>
+</axisDimensionProperties>
+<cellGeometry>
+<MD_CellGeometryCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CellGeometryCode" codeListValue="area" codeSpace="ISOTC211/19115">area</MD_CellGeometryCode>
+</cellGeometry>
+<transformationParameterAvailability>
+<gco:Boolean>true</gco:Boolean>
+</transformationParameterAvailability>
+<checkPointAvailability>
+<gco:Boolean>false</gco:Boolean>
+</checkPointAvailability>
+<cornerPoints>
+<gml:Point gml:id="IDDLG5VERAQFARJ55RNFNOCVD1JCXPFB1HSIYG4ZL0VRTSETCR5CXO">
+<gml:pos>-1146825.000000 1566585.000000</gml:pos>
+</gml:Point>
+</cornerPoints>
+<cornerPoints>
+<gml:Point gml:id="ID2FQO43T4DBTIGVDJY5KUVB35RDRD1DM2CXSO3AB2LHQK2CIULXV">
+<gml:pos>-1146825.000000 2074035.000000</gml:pos>
+</gml:Point>
+</cornerPoints>
+<cornerPoints>
+<gml:Point gml:id="IDUEHSZMYQAGOOKCGN3JKSK052UDMHDJQ44Y513JBB5DMUBHLUAAF">
+<gml:pos>-504285.000000 2074035.000000</gml:pos>
+</gml:Point>
+</cornerPoints>
+<cornerPoints>
+<gml:Point gml:id="ID23FHI5PYWHL5C3W2EPWSYJGREBHGMLYLOC2CSKMYZQLTAIREM43O">
+<gml:pos>-504285.000000 1566585.000000</gml:pos>
+</gml:Point>
+</cornerPoints>
+<centerPoint>
+<gml:Point gml:id="IDKRILHPADM5UCJNIELMGIVJIO1CP0YE5NINTEDLOS2UGO2FJOPF4C">
+<gml:pos>-825555.000000 1820310.000000</gml:pos>
+</gml:Point>
+</centerPoint>
+<pointInPixel>
+<MD_PixelOrientationCode>center</MD_PixelOrientationCode>
+</pointInPixel>
+</MD_Georectified>
+</spatialRepresentationInfo>
+<referenceSystemInfo>
+<MD_ReferenceSystem>
+<referenceSystemIdentifier>
+<RS_Identifier>
+<code>
+<gco:CharacterString>0</gco:CharacterString>
+</code>
+</RS_Identifier>
+</referenceSystemIdentifier>
+</MD_ReferenceSystem>
+</referenceSystemInfo>
+<identificationInfo>
+<MD_DataIdentification>
+<citation>
+<CI_Citation>
+<title>
+<gco:CharacterString>Land Cover Colorado 2000</gco:CharacterString>
+</title>
+<alternateTitle>
+<gco:CharacterString>Colorado_LandCover_2000</gco:CharacterString>
+</alternateTitle>
+<date>
+<CI_Date>
+<date>
+<gco:Date>2000-09-09</gco:Date>
+</date>
+<dateType>
+<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+</dateType>
+</CI_Date>
+</date>
+<identifier>
+<MD_Identifier>
+<code>
+<gco:CharacterString>https://digilib.uwm.edu/ark:/77981/gmgswh2dd8x</gco:CharacterString>
+</code>
+</MD_Identifier>
+</identifier>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>888-275-8747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>12201 Sunrise Valley Drive</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Reston</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>VA</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>20192</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<citedResponsibleParty>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>888-275-8747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>12201 Sunrise Valley Drive</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Reston</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>VA</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>20192</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</citedResponsibleParty>
+<presentationForm>
+<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+</presentationForm>
+</CI_Citation>
+</citation>
+<abstract>
+<gco:CharacterString>This TIF data layer represents land cover for Colorado in 2000. The spatial resolution of the dataset is 30 meters. The dataset was originally published by the U.S. Geological Survey on September 9, 2000.[These data can be used in a geographic information system (GIS) for any number of purposes such as assessing wildlife habitat, water quality, pesticide runoff, land use change, etc. The State data sets are provided with a 300 meter buffer beyond the State border to faciliate combining the State files into larger regions. The user must have a firm understanding of how the datasets were compiled and the resulting limitations of these data. The National Land Cover Dataset was compiled from Landsat satellite TM imagery (circa 1992) with a spatial resolution of 30 meters and supplemented by various ancillary data (where available). The analysis and interpretation of the satellite imagery was conducted using very large, sometimes multi-state image mosaics (i.e. up to 18 Landsat scenes). Using a relatively small number of aerial photographs for 'ground truth', the thematic interpretations were necessarily conducted from a spatially-broad perspective. Furthermore, the accuracy assessments (see below) correspond to 'federal regions' which are groupings of contiguous states. Thus, the reliability of the data is greatest at the state or multi-state level. The statistical accuracy of the data is known only for the region. Important Caution Advisory With this in mind, users are cautioned to carefully scrutinize the data to see if they are of sufficient reliability before attempting to use the dataset for larger-scale or local analyses. This evaluation must be made remembering that the NLCD represents conditions in the early 1990s. The Colorado portion of the NLCD was created as part of land cover mapping activities encompassing Federal Region VIII which includes the States of Montana, North and South Dakota, Wyoming, Utah and Colorado. The NLCD classification contains 21 different land cover categories with a spatial resolution of 30 meters. The NLCD was produced as a cooperative effort between the U.S. Geological Survey (USGS) and the U.S. Environmental Protection Agency (US EPA) to produce a consistent, land cover data layer for the conterminous U.S. using early 1990s Landsat thematic mapper (TM) data purchased by the Multi-resolution Land Characterization (MRLC) Consortium. The MRLC Consortium is a partnership of federal agencies that produce or use land cover data. Partners include the USGS (National Mapping, Biological Resources, and Water Resources Divisions), US EPA, the U.S. Forest Service, and the National Oceanic and Atmospheric Administration.][This land cover data set was produced as part of a cooperative project between the U.S. Geological Survey (USGS) and the U.S. Environmental Protection Agency (USEPA) to produce a consistent, land cover data layer for the conterminous U.S. based on 30-meter Landsat thematic mapper (TM) data. National Land Cover Data (NLCD) was developed from TM data acquired by the Multi-resoultion Land Characterization (MRLC) Consortium. The MRLC Consortium is a partnership of federal agencies that produce or use land cover data. Partners include the USGS (National Mapping, Biological Resources, and Water Resources Divisions), USEPA, the U.S. Forest Service, and the National Oceanic and Atmospheric Administration. The Colorado NLCD set was produced as part of a project area encompassing portions of Federal Regions 7 and 8. This data set was produced under the direction of the MRLC Regional Land Cover Characterization Project of the USGS EROS Data Center (EDC), Sioux Falls, SD.]</gco:CharacterString>
+</abstract>
+<purpose>
+<gco:CharacterString>This layer is intended for reference and mapping purposes and may be used for basic applications such as viewing, querying, and map output production or to provide a basemap to support graphical overlays and analysis with other spatial data.
+
+[The main objective of this project was to generate a generalized and nationally consistent land cover data layer for the entire conterminous United States.  These data can be used as a layer in a geographic information system (GIS) for any number of purposes such assessing wildlife habitat, water quality and pesticide runoff, land use change, etc.]</gco:CharacterString>
+</purpose>
+<credit>
+<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+</credit>
+<status>
+<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+</status>
+<pointOfContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>888-275-8747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>12201 Sunrise Valley Drive</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Reston</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>VA</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>20192</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</pointOfContact>
+<resourceMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+<contact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>888-275-8747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>12201 Sunrise Valley Drive</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Reston</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>VA</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>20192</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+</MD_MaintenanceInformation>
+</resourceMaintenance>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Colorado</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>GeoNames</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Raster</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>FGDC</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Land cover</gco:CharacterString>
+</keyword>
+<type>
+<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+</type>
+<thesaurusName>
+<CI_Citation>
+<title>
+<gco:CharacterString>LCSH</gco:CharacterString>
+</title>
+<date gco:nilReason="missing">
+</date>
+</CI_Citation>
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<descriptiveKeywords>
+<MD_Keywords>
+<keyword>
+<gco:CharacterString>Downloadable Data</gco:CharacterString>
+</keyword>
+<thesaurusName uuidref="723f6998-058e-11dc-8314-0800200c9a66">
+</thesaurusName>
+</MD_Keywords>
+</descriptiveKeywords>
+<resourceConstraints>
+<MD_Constraints>
+<useLimitation>
+<gco:CharacterString>Please see the UWM Libraries statement on Copyright and Digital Collections.[None. Acknowledgement of the U.S. Geological Survey would be appreciated in products derived from these data.]</gco:CharacterString>
+</useLimitation>
+</MD_Constraints>
+</resourceConstraints>
+<resourceConstraints>
+<MD_LegalConstraints>
+<useLimitation>
+<gco:CharacterString>Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials.
+
+</gco:CharacterString>
+</useLimitation>
+<otherConstraints>
+<gco:CharacterString>None</gco:CharacterString>
+</otherConstraints>
+</MD_LegalConstraints>
+</resourceConstraints>
+<spatialRepresentationType>
+<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="grid" codeSpace="ISOTC211/19115">grid</MD_SpatialRepresentationTypeCode>
+</spatialRepresentationType>
+<language>
+<LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+</language>
+<characterSet>
+<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+</characterSet>
+<topicCategory>
+<MD_TopicCategoryCode>environment</MD_TopicCategoryCode>
+</topicCategory>
+<environmentDescription>
+<gco:CharacterString> Version 6.2 (Build 9200) ; Esri ArcGIS 10.6.1.9270</gco:CharacterString>
+</environmentDescription>
+<extent>
+<EX_Extent>
+<geographicElement>
+<EX_GeographicBoundingBox>
+<extentTypeCode>
+<gco:Boolean>true</gco:Boolean>
+</extentTypeCode>
+<westBoundLongitude>
+<gco:Decimal>-109.777614</gco:Decimal>
+</westBoundLongitude>
+<eastBoundLongitude>
+<gco:Decimal>-101.72397</gco:Decimal>
+</eastBoundLongitude>
+<southBoundLatitude>
+<gco:Decimal>36.442635</gco:Decimal>
+</southBoundLatitude>
+<northBoundLatitude>
+<gco:Decimal>41.525898</gco:Decimal>
+</northBoundLatitude>
+</EX_GeographicBoundingBox>
+</geographicElement>
+<temporalElement>
+<EX_TemporalExtent>
+<extent>
+<gml:TimeInstant gml:id="IDJAYWO4N03W0EIKO0KHVMSHJDGBPIPZ3SXWQ5IKGNRXGX4WXR5CNP">
+<gml:timePosition>2000-01-01T00:00:00</gml:timePosition>
+</gml:TimeInstant>
+</extent>
+</EX_TemporalExtent>
+</temporalElement>
+</EX_Extent>
+</extent>
+<supplementalInformation>
+<gco:CharacterString>Augmented original metadata with AGSL specific elements. For official metadata contact the resource Point of Contact. Also see colorado_FGDC.txt and colorado_readme.txt.</gco:CharacterString>
+</supplementalInformation>
+</MD_DataIdentification>
+</identificationInfo>
+<contentInfo>
+<MD_ImageDescription>
+<attributeDescription>
+<gco:RecordType>Land cover</gco:RecordType>
+</attributeDescription>
+<contentType>
+<MD_CoverageContentTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CoverageContentTypeCode" codeListValue="thematicClassification" codeSpace="ISOTC211/19115">thematicClassification</MD_CoverageContentTypeCode>
+</contentType>
+<dimension>
+<MD_Band>
+<descriptor>
+<gco:CharacterString>Band_1</gco:CharacterString>
+</descriptor>
+<units>
+<gml:UnitDefinition gml:id="IDMPZH1IZJ2N1QJHQDR54AEIZWHD1UQ4ESQUFSWRLWMUGUBRIWBCML">
+<gml:identifier codeSpace="GML_UomSymbol">Unified Code of Units of Measure</gml:identifier>
+</gml:UnitDefinition>
+</units>
+<bitsPerValue>
+<gco:Integer>8</gco:Integer>
+</bitsPerValue>
+</MD_Band>
+</dimension>
+<triangulationIndicator>
+<gco:Boolean>false</gco:Boolean>
+</triangulationIndicator>
+<radiometricCalibrationDataAvailability>
+<gco:Boolean>false</gco:Boolean>
+</radiometricCalibrationDataAvailability>
+<cameraCalibrationInformationAvailability>
+<gco:Boolean>false</gco:Boolean>
+</cameraCalibrationInformationAvailability>
+<filmDistortionInformationAvailability>
+<gco:Boolean>false</gco:Boolean>
+</filmDistortionInformationAvailability>
+<lensDistortionInformationAvailability>
+<gco:Boolean>false</gco:Boolean>
+</lensDistortionInformationAvailability>
+</MD_ImageDescription>
+</contentInfo>
+<distributionInfo>
+<MD_Distribution>
+<distributionFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Raster Dataset</gco:CharacterString>
+</name>
+<version gco:nilReason="missing">
+</version>
+</MD_Format>
+</distributionFormat>
+<distributor>
+<MD_Distributor>
+<distributorContact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</distributorContact>
+<distributorFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Raster Dataset</gco:CharacterString>
+</name>
+<version gco:nilReason="missing">
+</version>
+</MD_Format>
+</distributorFormat>
+</MD_Distributor>
+</distributor>
+<distributor>
+<MD_Distributor>
+<distributorContact>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>888-275-8747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>12201 Sunrise Valley Drive</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Reston</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>VA</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>20192</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</distributorContact>
+<distributorFormat>
+<MD_Format>
+<name>
+<gco:CharacterString>Raster Dataset</gco:CharacterString>
+</name>
+<version gco:nilReason="missing">
+</version>
+</MD_Format>
+</distributorFormat>
+</MD_Distributor>
+</distributor>
+</MD_Distribution>
+</distributionInfo>
+<dataQualityInfo>
+<DQ_DataQuality>
+<scope gco:nilReason="missing">
+</scope>
+<report>
+<DQ_QuantitativeAttributeAccuracy>
+<measureDescription>
+<gco:CharacterString>Attribute information remains the same as given by the author of the data.
+
+[An accuracy assessment is done on all NLCD on a Federal Region basis following a revision cycle that incorporates feedback from MRLC Consortium partners and affiliated users.  The accuracy assessments are conducted by private sector vendors under contract to the USEPA. A protocol has been established by the USGS and USEPA that incorporates a two-stage, geographically stratified cluster sampling plan (Zhu et al., 1999)utilizing National Aerial Photography Program (NAPP) photographs as the sampling frame and the basic sampling unit.  In this design a NAPP photograph is defined as a 1st stage or primary sampling unit (PSU), and a sampled pixel within each PSU is treated as a 2nd stage or secondary sampling unit (SSU). PSU's are selected from a sampling grid based on NAPP flight-lines and photo centers, each grid cell measures 15' X 15' (minutes of latitude/longitude) and consists of 32 NHAP photographs.  A geographically stratified random sampling is performed with 1 NAPP photo being randomly   selected from each cell (geographic strata), if a sampled photo falls outside of the regional boundary it is not used.  Second stage sampling is accomplished by selecting SSU's (pixels) within each PSU (NAPP photo) to provide the actual locations for the reference land cover classification. The SSU's are manually interpreted and misclassification errors are estimated and described using a traditional error matrix as well as number of other important measures including the overall proportion of pixels correctly classified, user's and producer's accuracies, and omission and commission error probabilities.]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_QuantitativeAttributeAccuracy>
+</report>
+<report>
+<DQ_FormatConsistency>
+<measureDescription>
+<gco:CharacterString>[An unsupervised classification algorithm was used to classify the mosaicked multiple leaf-off TM scenes.  Aerial photographs were used to interpret and label classes into land cover categories and ancillary data sources resolved the class confusion.  Further land cover information from leaf-on TM data, NWI data, and other sources were incorporated to refine and augment the "basic" classification.]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_FormatConsistency>
+</report>
+<report>
+<DQ_CompletenessCommission>
+<measureDescription>
+<gco:CharacterString>[All photo-interpretable data are mapped.]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_CompletenessCommission>
+</report>
+<report>
+<DQ_TopologicalConsistency>
+<measureDescription>
+<gco:CharacterString>[Each Landsat Thematic Mapper image used to create the NLCD was precision terrain-corrected using 3-arc-second digital terrain elevation data (DTED), and georegistered using ground control points.  This resulted in a root mean square registration error of less than 1 pixel (30 meters).]</gco:CharacterString>
+</measureDescription>
+<result gco:nilReason="missing">
+</result>
+</DQ_TopologicalConsistency>
+</report>
+<lineage>
+<LI_Lineage>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>[[Land Cover Characterization: The project is being carried out on the basis of 10 Federal Regions that make up the conterminous United States; each region is comprised of multiple states; each region is processed in subregional units that are limited to the area covered by no more than 18 Landsat TM      scenes. The general NLCD procedure is to: (1) mosaic subregional TM scenes and classify them using an unsupervised clustering algorithm, (2) interpret and label the clusters/classes using aerial photographs        as reference data, (3) resolve the labeling of confused clusters/classes using the appropriate ancillary data source(s), and (4) incorporate land cover information from other data sets and perform manual edits to augment and refine the "basic" classification developed above. 
+Two seasonally distinct TM mosaics are produced, a leaves-on version (summer) and a leaves-off (spring/fall) version.  TM bands 3, 4, 5, and 7 are mosaicked for both the leaves-on and leaves-off versions. For mosaick purposes, a base scene is selected for each mosaic and the other scenes are adjusted to mimic spectral properties of the base scene using histogram matching in regions of spatial overlap.  Following mosaicking, either the leaves-off version or leaves-on version Is selected to be the "base" for the land cover mapping process.  The 4 TM bands of the "base" mosaic are clustered to produce a single 100- class image using an unsupervised clustering algorithm. Each of the spectrally distinct clusters/classes is then assigned to one or more Anderson level 1 and 2 land cover classes using National High Altitude Photography program (NHAP)and National Aerial Photography program (NAPP) aerial photographs as a reference.  Almost invariably, individual spectral clusters/classes are confused between two or more land cover classes.
+
+Separation of the confused spectral clusters/classes into appropriate NLCD class is accomplished using ancillary data layers.  Standard ancillary data layers include: the "non-base" mosaic TM bands and 100-     class cluster image; derived TM normalized vegetation index (NDVI), various TM band ratios, TM date bands; 3-arc second Digital Terrain Elevation Data (DTED) and derived slope, aspect and shaded relief;        population and housing density data; USGS land use and land cover (LUDA); and National Wetlands Inventory(NWI) data if available. Other ancillary data sources may include soils data, unique state or regional land cover data sets, or data from other federal programs such as the National Gap Analysis Program (GAP) of the USGS Biological Resources Division (BRD).  For a given confused spectral cluster/class, digital values of the various ancillary data layers are compared to determine: (1) which data layers are the most effective for splitting the confused cluster/class into the appropriate NLCD class, and (2) the appropriate layer thresholds for making the split(s).  Models are then developed using one to several ancillary data layers to split the confused cluster/class into the NLCD class.  For example, population density threshold is used to separate high-intensity residential areas from commercial/industrial/transportation.  Or a cluster/class might be confused between row crop and grasslands.  To split this particular cluster/class, a TM NDVI threshold might be identified and used with an elevation threshold in a class-splitting model to make the appropriate NLCD class assignments.  A purely spectral example is using the temporally opposite TM layers to discriminate confused cluster/classes such as hay pasture vs. row crops and deciduous forests vs. evergreen forests; simple thresholds that contrast the seasonal differences in vegetation between leaves-on vs. leaves-off.
+Not all cluster/class confusion can be successfully modeled out. Certain classes such as urban/recreational grasses or quarries/strip mines/gravel pits that are not spectrally unique require manual editing. These class features are typically visually identified and then reclassified using on-screen digitizing and recoding.  Other classes such as wetlands require the use of specific data sets such as NWI to provide the most accurate classification.  Areas lacking NWI data are typically subset out and modeling is used to estimate wetlands in these localized areas.  The final NLCD product results from the classification (interpretation and labeling) of the 100-class "base" cluster mosaic using both automated and manual processes, incorporating both spectral and conditional data layers.  For a more detailed explanation please  see Vogelmann et al. 1998 and Vogelmann et al. 1998.
+ Discussion: While we believe that the approach taken has yielded a very good general land cover classification product for the nation, it is important to indicate to the user where there might be some potential problems.  The biggest concerns are listed below: 1) Some of the TM data sets are not temporally ideal. Leaves-off data sets are heavily relied upon for discriminating between hay/pasture and row crop, and also for discriminating between forest classes.  The success of discriminating between these classes using leaves-off data sets hinges on the time of data acquisition.  When hay/pasture areas are non-green, they are not easily distinguishable from other agricultural areas using remotely sensed data.  However, there is a temporal window during which hay and pasture areas green up before most other vegetation (excluding evergreens, which have different spectral properties); during this window these areas are easily distinguishable from other crop areas. The discrimination between hay/pasture and deciduous forest is likewise optimized by selecting data in a temporal window where deciduous vegetation has yet to leaf out. It is difficult to acquire a single-date of imagery (leaves-on or leaves-off) that adequately differentiates between both deciduous/hay and pasture and hay pasture/row crop.        2) The data sets used cover a range of years (see data sources), and changes that have taken place across the landscape over the time period may not have been captured.  While this is not viewed as a major problem for most classes, it is possible that some land cover features change more rapidly than might be expected (e.g. hay one year, row crop the next). 3)  Wetlands classes are extremely difficult to extract from Landsat TM spectral information alone.  The  use of ancillary information such as National Wetlands Inventory (NWI) data is highly desirable.  We relied on GAP, LUDA, or proximity to streams and rivers as well as spectral data to delineate wetlands in areas without NWI data.  4) Separation of natural grass and shrub is problematic. Areas observed on the ground to be shrub or grass are not always distinguishable spectrally. Likewise, there was often disagreement between LUDA and GAP on these classes.]</gco:CharacterString>
+</description>
+<processor>
+<CI_ResponsibleParty>
+<organisationName>
+<gco:CharacterString>U.S. Geological Survey</gco:CharacterString>
+</organisationName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>888-275-8747</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>12201 Sunrise Valley Drive</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Reston</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>VA</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>20192</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+</CI_Address>
+</address>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+<processStep>
+<LI_ProcessStep>
+<description>
+<gco:CharacterString>Changed name of file from colorado_NLCD_090900_erd.tif to Colorado_LandCover_2000.tif.</gco:CharacterString>
+</description>
+<processor>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</processor>
+</LI_ProcessStep>
+</processStep>
+</LI_Lineage>
+</lineage>
+</DQ_DataQuality>
+</dataQualityInfo>
+<metadataConstraints>
+<MD_Constraints>
+<useLimitation>
+<gco:CharacterString>None</gco:CharacterString>
+</useLimitation>
+</MD_Constraints>
+</metadataConstraints>
+<metadataMaintenance>
+<MD_MaintenanceInformation>
+<maintenanceAndUpdateFrequency>
+<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded" codeSpace="ISOTC211/19115">asNeeded</MD_MaintenanceFrequencyCode>
+</maintenanceAndUpdateFrequency>
+<contact>
+<CI_ResponsibleParty>
+<individualName>
+<gco:CharacterString>American Geographical Society Library – UWM Libraries</gco:CharacterString>
+</individualName>
+<organisationName>
+<gco:CharacterString>University of Wisconsin-Milwaukee</gco:CharacterString>
+</organisationName>
+<positionName>
+<gco:CharacterString>GIS Staff</gco:CharacterString>
+</positionName>
+<contactInfo>
+<CI_Contact>
+<phone>
+<CI_Telephone>
+<voice>
+<gco:CharacterString>(414)-229-6282</gco:CharacterString>
+</voice>
+</CI_Telephone>
+</phone>
+<address>
+<CI_Address>
+<deliveryPoint>
+<gco:CharacterString>2311 E Hartord Ave</gco:CharacterString>
+</deliveryPoint>
+<city>
+<gco:CharacterString>Milwaukee</gco:CharacterString>
+</city>
+<administrativeArea>
+<gco:CharacterString>WI</gco:CharacterString>
+</administrativeArea>
+<postalCode>
+<gco:CharacterString>53211</gco:CharacterString>
+</postalCode>
+<country>
+<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+</country>
+<electronicMailAddress>
+<gco:CharacterString>gisdata@uwm.edu</gco:CharacterString>
+</electronicMailAddress>
+</CI_Address>
+</address>
+<hoursOfService>
+<gco:CharacterString>Monday – Friday: 9:00am – 4:30pm</gco:CharacterString>
+</hoursOfService>
+</CI_Contact>
+</contactInfo>
+<role>
+<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="resourceProvider" codeSpace="ISOTC211/19115">resourceProvider</CI_RoleCode>
+</role>
+</CI_ResponsibleParty>
+</contact>
+</MD_MaintenanceInformation>
+</metadataMaintenance>
+</MD_Metadata>
