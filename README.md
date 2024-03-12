@@ -20,3 +20,5 @@ and all ISO format XML records in the `metadata-iso` directory
 ## How to Contribute
 
 Contact agsl@uwm.edu or gisdata@uwm.edu to suggest changes or contribute.
+
+Test the new geocombine:pull and :index rake tasks.
