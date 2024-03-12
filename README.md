@@ -22,5 +22,7 @@ and all ISO format XML records in the `metadata-iso` directory
 Contact agsl@uwm.edu or gisdata@uwm.edu to suggest changes or contribute.
 
 Test the new geocombine:pull and :index rake tasks.
+
 Test 1: 2024-03-12 1:00PM CDT
+
 Test 1: 2024-03-12 1:30PM CDT
