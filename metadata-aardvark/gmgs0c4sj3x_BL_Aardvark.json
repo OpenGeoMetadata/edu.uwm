@@ -18,7 +18,7 @@
     "dct_language_sm": [
         "eng"
     ],
-    "dct_references_s": "{\"http://schema.org/url\":\"https://digilib.uwm.edu/ark:/77981/gmgs0c4sj3x\",\"http://schema.org/downloadUrl\":\"https://geodata.uwm.edu/public/gmgs0c4sj3x/ClarkCounty_CensusBlocks_2002.zip\",\"http://www.isotc211.org/schemas/2005/gmd\":\"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uwm/main/metadata-iso/gmgs0c4sj3x_ISO.xml\"}",
+    "dct_references_s": "{\"http://schema.org/url\":\"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgs0c4sj3x\",\"http://schema.org/downloadUrl\":\"https://geodata.uwm.edu/public/gmgs0c4sj3x/ClarkCounty_CensusBlocks_2002.zip\",\"http://www.isotc211.org/schemas/2005/gmd\":\"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uwm/main/metadata-iso/gmgs0c4sj3x_ISO.xml\"}",
     "dct_rights_sm": [
         "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
         "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
