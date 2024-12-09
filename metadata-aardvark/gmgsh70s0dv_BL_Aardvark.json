@@ -30,7 +30,7 @@
     "gbl_mdVersion_s": "Aardvark",
     "gbl_mdModified_dt": "2024-12-06T19:30:31Z",
     "schema_provider_s": "American Geographical Society Library – UWM Libraries",
-    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geodata.uwm.edu/restricted-uwm/gmgsh70s0dv/Cuba_Census_2002.zip\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgsh70s0dv\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uwm/main/metadata-iso/ark:/77981/gmgsh70s0dv_ISO.xml\"}",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geodata.uwm.edu/restricted-uwm/gmgsh70s0dv/Cuba_Census_2002.zip\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgsh70s0dv\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uwm/main/metadata-iso/gmgsh70s0dv_ISO.xml\"}",
     "gbl_resourceClass_sm": [
         "Datasets"
     ],

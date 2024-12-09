@@ -20,6 +20,9 @@
     "gbl_indexYear_im": [
         2002
     ],
+    "dct_isPartOf_sm": [
+        "ark:-77981-gmgsh70s0dv"
+    ],
     "dct_language_sm": [
         "eng",
         "esp"
@@ -30,7 +33,7 @@
     "gbl_mdVersion_s": "Aardvark",
     "gbl_mdModified_dt": "2024-12-06T19:30:31Z",
     "schema_provider_s": "American Geographical Society Library – UWM Libraries",
-    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geodata.uwm.edu/restricted-uwm/gmgs41ns26f/Cuba_DemographicCensusMunicipios_2002.zip\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgs41ns26f\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uwm/main/metadata-iso/ark:/77981/gmgs41ns26f_ISO.xml\"}",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geodata.uwm.edu/restricted-uwm/gmgs41ns26f/Cuba_DemographicCensusMunicipios_2002.zip\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgs41ns26f\", \"http://www.isotc211.org/schemas/2005/gmd/\": \"https://raw.githubusercontent.com/OpenGeoMetadata/edu.uwm/main/metadata-iso/gmgs41ns26f_ISO.xml\"}",
     "gbl_resourceClass_sm": [
         "Datasets"
     ],
