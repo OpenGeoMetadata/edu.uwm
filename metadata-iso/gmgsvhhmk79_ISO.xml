@@ -1,24 +1,283 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0"?>
 <MD_Metadata xmlns="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-<characterSet>
-<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
-</characterSet>
-<hierarchyLevel>
-<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
-</hierarchyLevel>
-<hierarchyLevelName>
-<gco:CharacterString>dataset</gco:CharacterString>
-</hierarchyLevelName>
-<contact gco:nilReason="missing">
-</contact>
-<dateStamp gco:nilReason="missing">
-</dateStamp>
-<metadataStandardName>
-<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
-</metadataStandardName>
-<metadataStandardVersion>
-<gco:CharacterString>2007</gco:CharacterString>
-</metadataStandardVersion>
-<identificationInfo gco:nilReason="missing">
-</identificationInfo>
+	<characterSet>
+		<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+	</characterSet>
+	<hierarchyLevel>
+		<MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+	</hierarchyLevel>
+	<hierarchyLevelName>
+		<gco:CharacterString>dataset</gco:CharacterString>
+	</hierarchyLevelName>
+	<contact>
+		<CI_ResponsibleParty>
+			<organisationName>
+				<gco:CharacterString>East View Geospatial</gco:CharacterString>
+			</organisationName>
+			<contactInfo>
+				<CI_Contact>
+					<phone>
+						<CI_Telephone>
+							<voice>
+								<gco:CharacterString>952-252-4500</gco:CharacterString>
+							</voice>
+						</CI_Telephone>
+					</phone>
+					<address>
+						<CI_Address>
+							<deliveryPoint>
+								<gco:CharacterString>10601 Wayzata Blvd</gco:CharacterString>
+							</deliveryPoint>
+							<city>
+								<gco:CharacterString>Minnetonka</gco:CharacterString>
+							</city>
+							<administrativeArea>
+								<gco:CharacterString>MN</gco:CharacterString>
+							</administrativeArea>
+							<postalCode>
+								<gco:CharacterString>55305</gco:CharacterString>
+							</postalCode>
+							<country>
+								<Country codeList="http://www.iso.org/iso/country_codes/iso_3166_code_lists.htm" codeListValue="US" codeSpace="ISO3166-1">US</Country>
+							</country>
+							<electronicMailAddress>
+								<gco:CharacterString>EVG_OPS@eastview.com</gco:CharacterString>
+							</electronicMailAddress>
+						</CI_Address>
+					</address>
+				</CI_Contact>
+			</contactInfo>
+			<role>
+				<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+			</role>
+		</CI_ResponsibleParty>
+	</contact>
+	<dateStamp>
+		<gco:Date>2023-12-18</gco:Date>
+	</dateStamp>
+	<metadataStandardName>
+		<gco:CharacterString>ISO 19139 Geographic Information - Metadata - Implementation Specification</gco:CharacterString>
+	</metadataStandardName>
+	<metadataStandardVersion>
+		<gco:CharacterString>2007</gco:CharacterString>
+	</metadataStandardVersion>
+	<identificationInfo>
+		<MD_DataIdentification>
+			<citation>
+				<CI_Citation>
+					<title>
+						<gco:CharacterString>Cuba 2002 Census</gco:CharacterString>
+					</title>
+					<date>
+						<CI_Date>
+							<date>
+								<gco:Date>2023-12-18</gco:Date>
+							</date>
+							<dateType>
+								<CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+							</dateType>
+						</CI_Date>
+					</date>
+					<citedResponsibleParty>
+						<CI_ResponsibleParty>
+							<organisationName>
+								<gco:CharacterString>East View Geospatial</gco:CharacterString>
+							</organisationName>
+							<role>
+								<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="originator" codeSpace="ISOTC211/19115">originator</CI_RoleCode>
+							</role>
+						</CI_ResponsibleParty>
+					</citedResponsibleParty>
+					<presentationForm>
+						<CI_PresentationFormCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_PresentationFormCode" codeListValue="mapDigital" codeSpace="ISOTC211/19115">mapDigital</CI_PresentationFormCode>
+					</presentationForm>
+				</CI_Citation>
+			</citation>
+			<abstract>
+				<gco:CharacterString>Official population and housing data for Cuba from the 2002 census. This census is provided at the Municipality administrative level (ADM2) and includes 158 polygons with 427 attribute variables. Attribute descriptions retain Spanish language names and unique identifier codes. All variable names were translated from the Spanish language. Field name prefixes, originally written with coded titles, were renamed to create unique names across the geodatabase (e.g. Original variable of “F1_Male” was updated to D001 and given the alias “Sex: Male [F1_Male]”, the letter D was given as it relates to the Demographic theme table. D = Demographic, E = Economic, H = Housing, M = Migration, S = Social). All variables from the original data were reviewed for completeness and organized into their relevant themes of Demographic, Economic, Housing, Migration and Social. The geodatabase was built to hold these specific tables with all geographic names and codes represented as text fields and census data represented as doubles or long integers. Automated tools were run to apply aliases in the format “English translation field description[Spanish language field description]”. Vector data was analyzed for accuracy and compared with national boundaries.</gco:CharacterString>
+			</abstract>
+			<purpose>
+				<gco:CharacterString>This dataset provides population statistics for Cuba, with correlating administrative boundaries in vector format, for use in GIS software.</gco:CharacterString>
+			</purpose>
+			<credit>
+				<gco:CharacterString>National Office Of Statistics and Information (ONEI) Republic of Cuba, 2002 [Oficina Nacional De Estadistica E Información (ONEI) Republica de Cuba, 2002]</gco:CharacterString>
+			</credit>
+			<status>
+				<MD_ProgressCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ProgressCode" codeListValue="completed" codeSpace="ISOTC211/19115">completed</MD_ProgressCode>
+			</status>
+			<pointOfContact>
+				<CI_ResponsibleParty>
+					<organisationName>
+						<gco:CharacterString>xxxxxx</gco:CharacterString>
+					</organisationName>
+					<contactInfo>
+						<CI_Contact>
+							<phone>
+								<CI_Telephone>
+									<voice>
+										<gco:CharacterString>(xxx)xxx-xxxx</gco:CharacterString>
+									</voice>
+								</CI_Telephone>
+							</phone>
+							<address>
+								<CI_Address>
+									<city>
+										<gco:CharacterString>xxxxxx</gco:CharacterString>
+									</city>
+									<administrativeArea>
+										<gco:CharacterString>xxxxxx</gco:CharacterString>
+									</administrativeArea>
+									<postalCode>
+										<gco:CharacterString>xxxxxx</gco:CharacterString>
+									</postalCode>
+								</CI_Address>
+							</address>
+						</CI_Contact>
+					</contactInfo>
+					<role>
+						<CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+					</role>
+				</CI_ResponsibleParty>
+			</pointOfContact>
+			<resourceMaintenance>
+				<MD_MaintenanceInformation>
+					<maintenanceAndUpdateFrequency>
+						<MD_MaintenanceFrequencyCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="unknown" codeSpace="ISOTC211/19115">unknown</MD_MaintenanceFrequencyCode>
+					</maintenanceAndUpdateFrequency>
+				</MD_MaintenanceInformation>
+			</resourceMaintenance>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>Cuba</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="place" codeSpace="ISOTC211/19115">place</MD_KeywordTypeCode>
+					</type>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>society</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+					</type>
+					<thesaurusName>
+						<CI_Citation>
+							<title>
+								<gco:CharacterString>ISO 19115 Topic Categories</gco:CharacterString>
+							</title>
+							<date gco:nilReason="missing"/>
+						</CI_Citation>
+					</thesaurusName>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<descriptiveKeywords>
+				<MD_Keywords>
+					<keyword>
+						<gco:CharacterString>house-type</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>rural</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>literacy</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>demographics</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>occupancy</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>housing</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>census</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>occupants</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>ownership</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>families</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>households</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>urban</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>household</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>income</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Housing</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Economic</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Migration</gco:CharacterString>
+					</keyword>
+					<keyword>
+						<gco:CharacterString>Social</gco:CharacterString>
+					</keyword>
+					<type>
+						<MD_KeywordTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme" codeSpace="ISOTC211/19115">theme</MD_KeywordTypeCode>
+					</type>
+				</MD_Keywords>
+			</descriptiveKeywords>
+			<resourceConstraints>
+				<MD_Constraints>
+					<useLimitation>
+						<gco:CharacterString>Data are licensed to "org-name"-affiliated persons only.</gco:CharacterString>
+					</useLimitation>
+				</MD_Constraints>
+			</resourceConstraints>
+			<spatialRepresentationType>
+				<MD_SpatialRepresentationTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector" codeSpace="ISOTC211/19115">vector</MD_SpatialRepresentationTypeCode>
+			</spatialRepresentationType>
+			<language gco:nilReason="missing"/>
+			<characterSet>
+				<MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+			</characterSet>
+			<topicCategory>
+				<MD_TopicCategoryCode>society</MD_TopicCategoryCode>
+			</topicCategory>
+			<extent>
+				<EX_Extent/>
+			</extent>
+			<extent>
+				<EX_Extent>
+					<description>
+						<gco:CharacterString>2002</gco:CharacterString>
+					</description>
+					<temporalElement>
+						<EX_TemporalExtent>
+							<extent>
+								<gml:TimeInstant gml:id="IDBWGNLB5VNNF2PAOOPPNWPUIQO15FWQ5RPGJQ5CML0NSRXGQT3J">
+									<gml:timePosition>2023-12-18</gml:timePosition>
+								</gml:TimeInstant>
+							</extent>
+						</EX_TemporalExtent>
+					</temporalElement>
+				</EX_Extent>
+			</extent>
+		</MD_DataIdentification>
+	</identificationInfo>
+	<metadataConstraints>
+		<MD_Constraints>
+			<useLimitation>
+				<gco:CharacterString>Data are licensed to "org-name"-affiliated persons only.</gco:CharacterString>
+			</useLimitation>
+		</MD_Constraints>
+	</metadataConstraints>
 </MD_Metadata>
