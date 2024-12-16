@@ -1,0 +1,59 @@
+{
+    "dct_accessRights_s": "Public",
+    "dcat_bbox": "ENVELOPE(-88.069903,-87.825308,43.192583,42.842178)",
+    "dct_creator_sm": [
+        "Data You Can Use"
+    ],
+    "dct_issued_s": "2024",
+    "dct_description_sm": [
+        "This spatial data, prepared by Mapping Inequilty, shows the historic Home Owner Loan Corporation (HOLC) graded boundaries. These boundaries were used to determine eligibility for low-interest mortgage loans and were heavily influenced by racial boundaries. Data made available under a CC-BY-NC license. For more information, please visit <a href=\"https://dsl.richmond.edu/panorama/redlining/data/WI-MilwaukeeCo/\">Mapping Inequality</a>."
+    ],
+    "dct_format_s": "GeoJSON",
+    "locn_geometry": "ENVELOPE(-88.069903,-87.825308,43.192583,42.842178)",
+    "id": "ark:-77981-gmgss1rnbzb",
+    "dct_identifier_sm": [
+        "ark:/77981/gmgss1rnbzb"
+    ],
+    "gbl_indexYear_im": [
+        1935,
+        1936,
+        1937,
+        1938,
+        1939,
+        1940
+    ],
+    "dct_language_sm": [
+        "eng"
+    ],
+    "pcdm_memberOf_sm": [
+        "ark:-77981-gmgswdbrxmc",
+        "ark:-77981-gmgsjh9w2hq",
+        "ark:-77981-gmgswm37sg6"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2024-12-11T18:27:46Z",
+    "schema_provider_s": "American Geographical Society Library – UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geodata.uwm.edu/public/gmgss1rnbzb/MilwaukeeCounty_HistoricDisadvantage_1935-1940.zip\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgss1rnbzb\"}",
+    "gbl_resourceClass_sm": [
+        "Datasets"
+    ],
+    "gbl_resourceType_sm": [
+        "Polygon data"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "dct_spatial_sm": [
+        "Milwaukee County",
+        "Wisconsin"
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "1935-1940"
+    ],
+    "dcat_theme_sm": [
+        "Society"
+    ],
+    "dct_title_s": "Historic Disadvantage Milwaukee County, Wisconsin 1935-1940"
+}

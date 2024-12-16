@@ -1,0 +1,54 @@
+{
+    "dct_accessRights_s": "Public",
+    "dcat_bbox": "ENVELOPE(-88.071061,-87.862713,43.194944,42.920816)",
+    "dct_creator_sm": [
+        "Data You Can Use"
+    ],
+    "dct_issued_s": "2018",
+    "dct_description_sm": [
+        "This flat map, prepared in November 2018 by Data You Can Use, presents the percent of registered votes who cast a ballot in the 2016 Presidential election by voter ward for the City of Milwaukee. The data is sourced from the City of Milwaukee Election Commission. For more information, please visit <a href=\"https:www.datayoucanuse.org/prg/mke-indicators/data-resources-archives/\">Data You Can Use</a>."
+    ],
+    "dct_format_s": "PDF",
+    "locn_geometry": "ENVELOPE(-88.071061,-87.862713,43.194944,42.920816)",
+    "id": "ark:-77981-gmgsnzs7k3g",
+    "dct_identifier_sm": [
+        "ark:/77981/gmgsnzs7k3g"
+    ],
+    "gbl_indexYear_im": [
+        2016
+    ],
+    "dct_language_sm": [
+        "eng"
+    ],
+    "pcdm_memberOf_sm": [
+        "ark:-77981-gmgs0cfxprf",
+        "ark:-77981-gmgs5x69pwb"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2024-12-11T18:27:46Z",
+    "schema_provider_s": "American Geographical Society Library – UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geodata.uwm.edu/public/gmgsnzs7k3g/Milwaukee_VoterTurnout_2016.zip\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgsnzs7k3g\"}",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Cartographic Materials",
+        "Digital Maps"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "dct_spatial_sm": [
+        "Milwaukee",
+        "Wisconsin"
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "2016"
+    ],
+    "dcat_theme_sm": [
+        "Society"
+    ],
+    "dct_title_s": "Voter Turnout in 2016 Election Milwaukee, Wisconsin 2016"
+}

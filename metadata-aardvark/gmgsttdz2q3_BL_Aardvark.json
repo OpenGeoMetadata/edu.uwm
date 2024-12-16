@@ -1,0 +1,59 @@
+{
+    "dct_accessRights_s": "Public",
+    "dcat_bbox": "ENVELOPE(-88.071061,-87.862713,43.194944,42.920816)",
+    "dct_creator_sm": [
+        "Data You Can Use"
+    ],
+    "dct_issued_s": "2020",
+    "dct_description_sm": [
+        "This tabular data, prepared by Data You Can Use, presents the change in total population by census tract for the City of Milwaukee from 2010-2016. The data is sourced from the 2010 Decennial Census Table PCT1, 2012-1026 American Community Survey 5-Year Estimate, and utilizes 2010 Census tracts. For more information, please visit <a href=\"https:www.datayoucanuse.org/prg/mke-indicators/data-resources-archives/\">Data You Can Use</a>."
+    ],
+    "dct_format_s": "Tabular Data",
+    "locn_geometry": "ENVELOPE(-88.071061,-87.862713,43.194944,42.920816)",
+    "id": "ark:-77981-gmgsttdz2q3",
+    "dct_identifier_sm": [
+        "ark:/77981/gmgsttdz2q3"
+    ],
+    "gbl_indexYear_im": [
+        2010,
+        2011,
+        2012,
+        2013,
+        2014,
+        2015,
+        2016
+    ],
+    "dct_language_sm": [
+        "eng"
+    ],
+    "pcdm_memberOf_sm": [
+        "ark:-77981-gmgsvt4bc1t",
+        "ark:-77981-gmgszkh1c3r"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2024-12-11T18:27:46Z",
+    "schema_provider_s": "American Geographical Society Library – UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geodata.uwm.edu/public/gmgsttdz2q3/Milwaukee_PopulationChange_2010-2016.zip\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgsttdz2q3\"}",
+    "gbl_resourceClass_sm": [
+        "Datasets"
+    ],
+    "gbl_resourceType_sm": [
+        "Table data"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "dct_spatial_sm": [
+        "Milwaukee",
+        "Wisconsin"
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "2010-2016"
+    ],
+    "dcat_theme_sm": [
+        "Society"
+    ],
+    "dct_title_s": "Population Change Milwaukee, Wisconsin 2010-2016"
+}
