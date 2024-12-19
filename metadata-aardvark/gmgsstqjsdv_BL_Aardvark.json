@@ -6,7 +6,7 @@
     ],
     "dct_issued_s": "2020",
     "dct_description_sm": [
-        "This tabular data, prepared by Data You Can Use, presents the percentage of adults who reported visiting a dentist or dental clinic in the previous year by census tract in the city of Milwaukee, Wisconsin for 2016. The data is sourced from from the Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health, and utilizes 2010 Census tracts. For more information, please visit <a href=\"https:www.datayoucanuse.org/prg/mke-indicators/data-resources-archives/\">Data You Can Use</a>."
+        "This tabular data, prepared by Data You Can Use, presents the percentage of adults who reported visiting a dentist or dental clinic in the previous year by census tract in the city of Milwaukee, Wisconsin for 2016. The data is sourced from from the Centers for Disease Control and Prevention, National Center for Chronic Disease Prevention and Health Promotion, Division of Population Health, and utilizes 2010 Census tracts. For more information, please visit <a href=\"https://www.datayoucanuse.org/prg/mke-indicators/data-resources-archives/\">Data You Can Use</a>."
     ],
     "dct_format_s": "Tabular Data",
     "locn_geometry": "ENVELOPE(-88.071061,-87.862713,43.194944,42.920816)",

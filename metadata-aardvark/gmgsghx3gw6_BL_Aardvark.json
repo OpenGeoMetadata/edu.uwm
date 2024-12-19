@@ -6,7 +6,7 @@
     ],
     "dct_issued_s": "2020",
     "dct_description_sm": [
-        "This tabular data, prepared by Data You Can Use, presents the share of households that are rent burdened (spending 30% or more of income on rent) by census tract in the city of Milwaukee, Wisconsin. The data is sourced from the 2015-2019 American Community Survey 5-year estimates and utilizes 2010 Census tracts. For more information, please visit <a href=\"https:www.datayoucanuse.org/prg/mke-indicators/data-resources-archives/\">Data You Can Use</a>."
+        "This tabular data, prepared by Data You Can Use, presents the share of households that are rent burdened (spending 30% or more of income on rent) by census tract in the city of Milwaukee, Wisconsin. The data is sourced from the 2015-2019 American Community Survey 5-year estimates and utilizes 2010 Census tracts. For more information, please visit <a href=\"https://www.datayoucanuse.org/prg/mke-indicators/data-resources-archives/\">Data You Can Use</a>."
     ],
     "dct_format_s": "Tabular Data",
     "locn_geometry": "ENVELOPE(-88.071061,-87.862713,43.194944,42.920816)",

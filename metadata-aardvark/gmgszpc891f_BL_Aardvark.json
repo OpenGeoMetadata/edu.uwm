@@ -6,7 +6,7 @@
     ],
     "dct_issued_s": "2024",
     "dct_description_sm": [
-        "This flat map, prepared in November of 2018 by Data You Can Use, presents the change in total households with individuals under the age of 18 by census tract for the City of Milwaukee from 2010-2020. The data is sourced from the 2010 Decennial Census Table PCT1, 2020 Decennial Census Table DP1, and utilizes 2020 Census tracts. For more information, please visit <a href=\"https:www.datayoucanuse.org/prg/mke-indicators/data-resources-archives/\">Data You Can Use</a>."
+        "This flat map, prepared in November of 2018 by Data You Can Use, presents the change in total households with individuals under the age of 18 by census tract for the City of Milwaukee from 2010-2020. The data is sourced from the 2010 Decennial Census Table PCT1, 2020 Decennial Census Table DP1, and utilizes 2020 Census tracts. For more information, please visit <a href=\"https://www.datayoucanuse.org/prg/mke-indicators/data-resources-archives/\">Data You Can Use</a>."
     ],
     "dct_format_s": "Tabular Data",
     "locn_geometry": "ENVELOPE(-88.071061,-87.862713,43.194944,42.920816)",
