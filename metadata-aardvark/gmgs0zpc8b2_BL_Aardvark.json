@@ -1,0 +1,69 @@
+{
+    "dct_accessRights_s": "Public",
+    "dct_alternative_sm": [
+        "644-b A-1:100,000"
+    ],
+    "dcat_bbox": "ENVELOPE(14.33333,28.83333,56,47.71667)",
+    "dct_creator_sm": [
+        "Wojskowy Instytut Geograficzny (Poland)"
+    ],
+    "dct_description_sm": [
+        "This is a digital index map to serve as a finding aid for Mapa topograficzna Polska 1:100,000"
+    ],
+    "dct_format_s": "GeoJSON",
+    "locn_geometry": "ENVELOPE(14.33333,28.83333,56,47.71667)",
+    "id": "ark:-77981-gmgs0zpc8b2",
+    "dct_identifier_sm": [
+        "644bA100000.geojson"
+    ],
+    "gbl_indexYear_im": [
+        1911,
+        1912,
+        1913,
+        1914,
+        1915,
+        1916,
+        1917,
+        1922,
+        1923,
+        1924,
+        1925,
+        1926,
+        1927,
+        1928,
+        1929,
+        1930,
+        1931,
+        1932,
+        1933,
+        1934,
+        1935,
+        1936,
+        1937,
+        1938,
+        1939
+    ],
+    "dct_language_sm": [
+        "pol"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
+    "schema_provider_s": "American Geographical Society Library â€“ UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/644bA100000.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgs0zpc8b2\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/644bA100000.geojson\"}",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Index maps ",
+        " Topographic Maps"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "1911 to 1939"
+    ],
+    "dct_title_s": "OpenIndexMap: Mapa topograficzna Polska 1:100,000"
+}

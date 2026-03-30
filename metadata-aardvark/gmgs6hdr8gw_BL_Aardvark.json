@@ -1,0 +1,80 @@
+{
+    "dct_accessRights_s": "Public",
+    "dct_alternative_sm": [
+        "881-b G-1:24,000 GM"
+    ],
+    "dcat_bbox": "ENVELOPE(-90.3,-82.5,36.75,34.98333)",
+    "dct_creator_sm": [
+        "Tennessee Division of Geology"
+    ],
+    "dct_description_sm": [
+        "This is a digital index map to serve as a finding aid for Tennessee Geological Maps 1:24,000"
+    ],
+    "dct_format_s": "GeoJSON",
+    "locn_geometry": "ENVELOPE(-90.3,-82.5,36.75,34.98333)",
+    "id": "ark:-77981-gmgs6hdr8gw",
+    "dct_identifier_sm": [
+        "881bG24000_GM.geojson"
+    ],
+    "gbl_indexYear_im": [
+        1962,
+        1963,
+        1964,
+        1965,
+        1966,
+        1967,
+        1968,
+        1969,
+        1970,
+        1971,
+        1972,
+        1973,
+        1974,
+        1975,
+        1976,
+        1978,
+        1979,
+        1981,
+        1982,
+        1983,
+        1984,
+        1985,
+        1986,
+        1987,
+        1988,
+        1989,
+        1990,
+        1991,
+        1992,
+        1993,
+        1994,
+        1995,
+        1996,
+        1998,
+        2000,
+        2001
+    ],
+    "dct_language_sm": [
+        "eng"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
+    "schema_provider_s": "American Geographical Society Library â€“ UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/881bG24000_GM.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgs6hdr8gw\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/881bG24000_GM.geojson\"}",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Index maps ",
+        " Geological Maps"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "1962 to 2001"
+    ],
+    "dct_title_s": "OpenIndexMap: Tennessee Geological Maps 1:24,000"
+}

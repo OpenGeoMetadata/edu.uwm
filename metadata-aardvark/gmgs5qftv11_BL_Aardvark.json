@@ -1,0 +1,49 @@
+{
+    "dct_accessRights_s": "Public",
+    "dct_alternative_sm": [
+        "630-b A-1:250,000 Pyrenees"
+    ],
+    "dcat_bbox": "ENVELOPE(0,10,50,41.16667)",
+    "dct_creator_sm": [
+        "Société nationale des pétroles d'Aquitaine"
+    ],
+    "dct_description_sm": [
+        "This is a digital index map to serve as a finding aid for Carte geologique des Pyrenees 1:25,000"
+    ],
+    "dct_format_s": "GeoJSON",
+    "locn_geometry": "ENVELOPE(0,10,50,41.16667)",
+    "id": "ark:-77981-gmgs5qftv11",
+    "dct_identifier_sm": [
+        "630bG250000_PYRENEES.geojson"
+    ],
+    "gbl_indexYear_im": [
+        1979,
+        1980,
+        1983,
+        1987,
+        1989
+    ],
+    "dct_language_sm": [
+        "fra"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
+    "schema_provider_s": "American Geographical Society Library â€“ UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/630bG250000_BRGM.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgs5qftv11\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/630bG250000_BRGM.geojson\"}",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Index maps ",
+        " Geological Maps"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "1979 to 1989"
+    ],
+    "dct_title_s": "OpenIndexMap: Carte geologique des Pyrenees 1:25,000 (Pyrenees)"
+}

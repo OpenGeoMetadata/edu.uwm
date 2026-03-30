@@ -1,0 +1,45 @@
+{
+    "dct_accessRights_s": "Public",
+    "dct_alternative_sm": [
+        "630-b A-1:50,000 Orange"
+    ],
+    "dcat_bbox": "ENVELOPE(-2,2,44,41.83333)",
+    "dct_creator_sm": [
+        "Institut national de l'information géographique et forestière (France)"
+    ],
+    "dct_description_sm": [
+        "This is a digital index map to serve as a finding aid for France Carte topographique 1:50,000"
+    ],
+    "dct_format_s": "GeoJSON",
+    "locn_geometry": "ENVELOPE(-2,2,44,41.83333)",
+    "id": "ark:-77981-gmgs1zcrjnt",
+    "dct_identifier_sm": [
+        "630bA50000_Orange.geojson"
+    ],
+    "gbl_indexYear_im": [
+        1972
+    ],
+    "dct_language_sm": [
+        "fra"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
+    "schema_provider_s": "American Geographical Society Library â€“ UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/630bG250000_PYRENEES.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgs1zcrjnt\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/630bG250000_PYRENEES.geojson\"}",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Index maps ",
+        " Topographic Maps"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "1972"
+    ],
+    "dct_title_s": "OpenIndexMap: France Carte topographique 1:50,000 (Orange Series)"
+}

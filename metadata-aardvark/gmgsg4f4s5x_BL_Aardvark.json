@@ -1,0 +1,58 @@
+{
+    "dct_accessRights_s": "Public",
+    "dct_alternative_sm": [
+        "300-b A-1:2,000,000"
+    ],
+    "dcat_bbox": "ENVELOPE(-26.662771,56.662771,43.216667,-36)",
+    "dct_creator_sm": [
+        "United States. Army Map Service"
+    ],
+    "dct_description_sm": [
+        "This is a digital index map to serve as a finding aid for Africa 1:2,000,000 / reproduced under the direction of the Chief of Engineers by the Army Map Service, U.S. Army, Washington, D.C.  Based on British and French maps."
+    ],
+    "dct_format_s": "GeoJSON",
+    "locn_geometry": "ENVELOPE(-26.662771,56.662771,43.216667,-36)",
+    "id": "ark:-77981-gmgsg4f4s5x",
+    "dct_identifier_sm": [
+        "300bA2000000.geojson"
+    ],
+    "gbl_indexYear_im": [
+        1886,
+        1891,
+        1892,
+        1893,
+        1894,
+        1895,
+        1896,
+        1897,
+        1898,
+        1899,
+        1900,
+        1901,
+        1902,
+        1903
+    ],
+    "dct_language_sm": [
+        "eng"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
+    "schema_provider_s": "American Geographical Society Library â€“ UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/300bA2000000.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgsg4f4s5x\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/300bA2000000.geojson\"}",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Index maps ",
+        " Topographic Maps"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "1886 to 1903"
+    ],
+    "dct_title_s": "OpenIndexMap: Africa 1:2,000,000"
+}

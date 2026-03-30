@@ -1,0 +1,62 @@
+{
+    "dct_accessRights_s": "Public",
+    "dct_alternative_sm": [
+        "621-b A-63,360"
+    ],
+    "dcat_bbox": "ENVELOPE(-8.666667,1.8,60.86667,49.85)",
+    "dct_creator_sm": [
+        "Great Britain. Ordnance Survey"
+    ],
+    "dct_description_sm": [
+        "This is a digital index map to serve as a finding aid for the Seventh Series of One Inch Maps Ordnance Survey of Great Britain 1:63,360"
+    ],
+    "dct_format_s": "GeoJSON",
+    "locn_geometry": "ENVELOPE(-8.666667,1.8,60.86667,49.85)",
+    "id": "ark:-77981-gmgstdz0c0v",
+    "dct_identifier_sm": [
+        "621bA63360.geojson"
+    ],
+    "gbl_indexYear_im": [
+        1940,
+        1945,
+        1946,
+        1947,
+        1951,
+        1952,
+        1953,
+        1954,
+        1955,
+        1956,
+        1957,
+        1958,
+        1959,
+        1960,
+        1961,
+        1962,
+        1963,
+        1965
+    ],
+    "dct_language_sm": [
+        "eng"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
+    "schema_provider_s": "American Geographical Society Library â€“ UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/621bA63360.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgstdz0c0v\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/621bA63360.geojson\"}",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Index maps ",
+        " Topographic Maps"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "1940 to 1965"
+    ],
+    "dct_title_s": "OpenIndexMap: Seventh Series of One Inch Maps Ordnance Survey of Great Britain 1:63,360"
+}

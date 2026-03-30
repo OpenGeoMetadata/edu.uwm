@@ -1,0 +1,53 @@
+{
+    "dct_accessRights_s": "Public",
+    "dct_alternative_sm": [
+        "633-b A-1:50,000 R"
+    ],
+    "dcat_bbox": "ENVELOPE(2.25,6.796389,51.63361,49.46)",
+    "dct_creator_sm": [
+        "Institut géographique national (Belgium)"
+    ],
+    "dct_description_sm": [
+        "This is a digital index map to serve as a finding aid for Carte de la Belgique Type Rapide 1:50,000"
+    ],
+    "dct_format_s": "GeoJSON",
+    "locn_geometry": "ENVELOPE(2.25,6.796389,51.63361,49.46)",
+    "id": "ark:-77981-gmgsx69pc2r",
+    "dct_identifier_sm": [
+        "633bA50000_R.geojson"
+    ],
+    "gbl_indexYear_im": [
+        1952,
+        1953,
+        1954,
+        1960,
+        1961,
+        1962,
+        1963,
+        1964,
+        1965
+    ],
+    "dct_language_sm": [
+        "fra"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
+    "schema_provider_s": "American Geographical Society Library â€“ UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/633bA50000_R.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgsx69pc2r\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/633bA50000_R.geojson\"}",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Index maps ",
+        " Topographic Maps"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "1952 to 1965"
+    ],
+    "dct_title_s": "OpenIndexMap: Carte de la Belgique Type Rapide 1:50,000"
+}

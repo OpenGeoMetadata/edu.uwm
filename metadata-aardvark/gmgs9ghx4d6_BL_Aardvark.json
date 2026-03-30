@@ -1,0 +1,61 @@
+{
+    "dct_accessRights_s": "Public",
+    "dct_alternative_sm": [
+        "630-b A-1:250,000 BRGM"
+    ],
+    "dcat_bbox": "ENVELOPE(-5.150556,9.7175,51.12,41.22)",
+    "dct_creator_sm": [
+        "France. Service géologique national"
+    ],
+    "dct_description_sm": [
+        "This is a digital index map to serve as a finding aid for Carte geologique de la France 1:250,000 (BRGM)"
+    ],
+    "dct_format_s": "GeoJSON",
+    "locn_geometry": "ENVELOPE(-5.150556,9.7175,51.12,41.22)",
+    "id": "ark:-77981-gmgs9ghx4d6",
+    "dct_identifier_sm": [
+        "630bG250000_BRGM.geojson"
+    ],
+    "gbl_indexYear_im": [
+        1968,
+        1973,
+        1974,
+        1976,
+        1977,
+        1978,
+        1979,
+        1980,
+        1981,
+        1982,
+        1983,
+        1984,
+        1985,
+        1986,
+        1987,
+        1988,
+        1989
+    ],
+    "dct_language_sm": [
+        "fra"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
+    "schema_provider_s": "American Geographical Society Library â€“ UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/630bA50000_Orange.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgs9ghx4d6\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/630bA50000_Orange.geojson\"}",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Index maps ",
+        " Geological Maps"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "1968 to 1989"
+    ],
+    "dct_title_s": "OpenIndexMap: Carte geologique de la France 1:250,000 (BRGM)"
+}

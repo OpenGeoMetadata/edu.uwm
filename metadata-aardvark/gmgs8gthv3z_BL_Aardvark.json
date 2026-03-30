@@ -1,0 +1,48 @@
+{
+    "dct_accessRights_s": "Public",
+    "dct_alternative_sm": [
+        "642-b A-1:75,000"
+    ],
+    "dcat_bbox": "ENVELOPE(16.33333,24.83333,49.25,45.5)",
+    "dct_creator_sm": [
+        "German General Staff"
+    ],
+    "dct_description_sm": [
+        "This is a digital index map to serve as a finding aid for Hungary 1:75,000 (German)"
+    ],
+    "dct_format_s": "GeoJSON",
+    "locn_geometry": "ENVELOPE(16.33333,24.83333,49.25,45.5)",
+    "id": "ark:-77981-gmgs8gthv3z",
+    "dct_identifier_sm": [
+        "642ba75000.geojson"
+    ],
+    "gbl_indexYear_im": [
+        1936,
+        1938,
+        1940,
+        1944
+    ],
+    "dct_language_sm": [
+        "ger"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
+    "schema_provider_s": "American Geographical Society Library â€“ UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/642ba75000.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgs8gthv3z\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/642ba75000.geojson\"}",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Index maps ",
+        " Topographic Maps"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "1936 to 1944"
+    ],
+    "dct_title_s": "OpenIndexMap: Hungary 1:75,000 (German)"
+}

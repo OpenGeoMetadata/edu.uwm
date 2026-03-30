@@ -1,0 +1,48 @@
+{
+    "dct_accessRights_s": "Public",
+    "dct_alternative_sm": [
+        "813-c/b .D47 A-1:100,000"
+    ],
+    "dcat_bbox": "ENVELOPE(-118.5,-114.1,37.68333,32.56667)",
+    "dct_creator_sm": [
+        "United States. Bureau of Land Management"
+    ],
+    "dct_description_sm": [
+        "This is a digital index map to serve as a finding aid for Desert access guide. California Desert National Conservation Area edited and published by the Bureau of Land Management."
+    ],
+    "dct_format_s": "GeoJSON",
+    "locn_geometry": "ENVELOPE(-118.5,-114.1,37.68333,32.56667)",
+    "id": "ark:-77981-gmgsb8gtjvk",
+    "dct_identifier_sm": [
+        "813cb_d47A100000.geojson"
+    ],
+    "gbl_indexYear_im": [
+        1986,
+        1988,
+        1989,
+        1992
+    ],
+    "dct_language_sm": [
+        "eng"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
+    "schema_provider_s": "American Geographical Society Library â€“ UWM Libraries",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/813cb_d47A100000.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgsb8gtjvk\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/813cb_d47A100000.geojson\"}",
+    "gbl_resourceClass_sm": [
+        "Maps"
+    ],
+    "gbl_resourceType_sm": [
+        "Index maps ",
+        " Tourist Maps"
+    ],
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_suppressed_b": false,
+    "dct_temporal_sm": [
+        "1986 to 1992"
+    ],
+    "dct_title_s": "OpenIndexMap: California Desert National Conservation Area Access Guide 1:100,000"
+}
