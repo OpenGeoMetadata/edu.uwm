@@ -52,7 +52,7 @@
     ],
     "gbl_mdVersion_s": "Aardvark",
     "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
-    "schema_provider_s": "American Geographical Society Library â€“ UWM Libraries",
+    "schema_provider_s": "American Geographical Society Library – UWM Libraries",
     "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/641bA75000.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgsd7wm4g4\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/641bA75000.geojson\"}",
     "gbl_resourceClass_sm": [
         "Maps"
