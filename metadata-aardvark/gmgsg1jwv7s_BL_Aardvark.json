@@ -14,7 +14,7 @@
     "locn_geometry": "ENVELOPE(17.83333,27.33333,59.5,50)",
     "id": "ark:-77981-gmgsg1jwv7s",
     "dct_identifier_sm": [
-        "685bA100000.geojson"
+        "ark:/77981/gmgsg1jwv7s"
     ],
     "gbl_indexYear_im": [
         1885,
@@ -32,7 +32,7 @@
     "gbl_mdVersion_s": "Aardvark",
     "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
     "schema_provider_s": "American Geographical Society Library – UWM Libraries",
-    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/685bA100000.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgsg1jwv7s\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/685bA100000.geojson\"}",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/685bA100000.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgsg1jwv7s\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/685bA100000.geojson\", \"http://geojson.org/geojson-spec.html\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/685bA100000.geojson\"}",
     "gbl_resourceClass_sm": [
         "Maps"
     ],

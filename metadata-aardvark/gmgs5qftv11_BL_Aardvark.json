@@ -14,7 +14,7 @@
     "locn_geometry": "ENVELOPE(0,10,50,41.16667)",
     "id": "ark:-77981-gmgs5qftv11",
     "dct_identifier_sm": [
-        "630bG250000_PYRENEES.geojson"
+        "ark:/77981/gmgs5qftv11"
     ],
     "gbl_indexYear_im": [
         1979,
@@ -29,7 +29,7 @@
     "gbl_mdVersion_s": "Aardvark",
     "gbl_mdModified_dt": "2026-03-30T18:00:15Z",
     "schema_provider_s": "American Geographical Society Library – UWM Libraries",
-    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/630bG250000_BRGM.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgs5qftv11\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/630bG250000_BRGM.geojson\"}",
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/630bG250000_BRGM.geojson\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgs5qftv11\", \"https://openindexmaps.org\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/630bG250000_BRGM.geojson\", \"http://geojson.org/geojson-spec.html\": \"https://raw.githubusercontent.com/OpenIndexMaps/edu.uwm/main/630bG250000_BRGM.geojson\"}",
     "gbl_resourceClass_sm": [
         "Maps"
     ],
