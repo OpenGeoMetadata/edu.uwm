@@ -8,7 +8,7 @@
         "Tennessee Division of Geology"
     ],
     "dct_description_sm": [
-        "This is a digital index map to serve as a finding aid for Tennessee Geological Maps 1:24,000"
+        "This is a digital index map to serve as a finding aid for TennesseeGeological Maps 1:24,000"
     ],
     "dct_format_s": "GeoJSON",
     "locn_geometry": "ENVELOPE(-90.3,-82.5,36.75,34.98333)",
@@ -65,8 +65,8 @@
         "Maps"
     ],
     "gbl_resourceType_sm": [
-        "Index maps ",
-        " Geological Maps"
+        "Index maps",
+        "Geological Maps"
     ],
     "dct_rights_sm": [
         "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
@@ -76,5 +76,5 @@
     "dct_temporal_sm": [
         "1962 to 2001"
     ],
-    "dct_title_s": "OpenIndexMap: Tennessee Geological Maps 1:24,000"
+    "dct_title_s": "OpenIndexMap: TennesseeGeological Maps 1:24,000"
 }
