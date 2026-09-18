@@ -1,0 +1,68 @@
+{
+    "id": "ark:-77981-gmgswwpzk8v",
+    "dct_identifier_sm": [
+        "ark:/77981/gmgswwpzk8v"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "schema_provider_s": "American Geographical Society Library – UWM Libraries",
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_mdModified_dt": "2026-09-18T16:45:38Z",
+    "dct_accessRights_s": "Public",
+    "gbl_suppressed_b": false,
+    "dct_alternative_sm": [
+        "Building Permits Milwaukee, Wisconsin 2026"
+    ],
+    "dcat_bbox": "ENVELOPE(-88.077255,-87.859595,43.194863,42.919581)",
+    "dct_creator_sm": [
+        "City of Milwaukee Department of Neighborhood Services"
+    ],
+    "dct_issued_s": "2026",
+    "dct_description_sm": [
+        "This tabular dataset contains 16,685 City of Milwaukee residential and commercial permit-work records as of September 18, 2026. Fields include date opened, address, record identifier, permit type and status, issue date, construction cost, building use, and effect on dwelling units. The records include permits issued from 2015 through June 15, 2026, with some cases opened earlier. The source portal states that the dataset is updated monthly.",
+        "Original source: <a href=\"https://data.milwaukee.gov/dataset/buildingpermits\">City of Milwaukee Open Data Portal</a>."
+    ],
+    "dct_format_s": "CSV",
+    "locn_geometry": "ENVELOPE(-88.077255,-87.859595,43.194863,42.919581)",
+    "gbl_indexYear_im": [
+        2026
+    ],
+    "dct_language_sm": [
+        "eng"
+    ],
+    "dct_license_sm": [
+        "http://www.opendefinition.org/licenses/cc-by"
+    ],
+    "dct_publisher_sm": [
+        "City of Milwaukee Department of Neighborhood Services"
+    ],
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geodata.uwm.edu/public/gmgswwpzk8v/Milwaukee_BuildingPermits_2026.csv\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgswwpzk8v\"}",
+    "gbl_resourceClass_sm": [
+        "Datasets"
+    ],
+    "gbl_resourceType_sm": [
+        "Tabular data"
+    ],
+    "dct_spatial_sm": [
+        "Milwaukee",
+        "Wisconsin",
+        "United States"
+    ],
+    "dct_subject_sm": [
+        "Building permits",
+        "Construction",
+        "Residential buildings",
+        "Commercial buildings"
+    ],
+    "dct_temporal_sm": [
+        "2015-2026"
+    ],
+    "dcat_theme_sm": [
+        "Structure",
+        "Economy",
+        "Property"
+    ],
+    "dct_title_s": "Residential and Commercial Permit Work Data Milwaukee, Wisconsin 2026"
+}

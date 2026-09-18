@@ -1,0 +1,65 @@
+{
+    "id": "ark:-77981-gmgs5dv427f",
+    "dct_identifier_sm": [
+        "ark:/77981/gmgs5dv427f"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "schema_provider_s": "American Geographical Society Library – UWM Libraries",
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_mdModified_dt": "2026-09-18T16:45:38Z",
+    "dct_accessRights_s": "Public",
+    "gbl_suppressed_b": false,
+    "dcat_bbox": "ENVELOPE(-88.077255,-87.859595,43.194863,42.919581)",
+    "dct_creator_sm": [
+        "City of Milwaukee Department of Neighborhood Services"
+    ],
+    "dct_issued_s": "2026",
+    "dct_description_sm": [
+        "This tabular dataset contains 1,669 City of Milwaukee properties recorded as vacant in the Department of Neighborhood Services Accela system as of September 18, 2026. Fields include the date opened, full address, land-use code, parcel number, improvement value, aldermanic district, ZIP code, census tract, and neighborhood. PARCELNBR can be used as a tax-key join to the City of Milwaukee Parcel Polygons and Master Property File datasets. The source portal states that data are extracted daily and that newly recorded vacancies may take up to 72 hours to appear.",
+        "Original source: <a href=\"https://data.milwaukee.gov/dataset/accelavacantbuilding\">City of Milwaukee Open Data Portal</a>."
+    ],
+    "dct_format_s": "CSV",
+    "locn_geometry": "ENVELOPE(-88.077255,-87.859595,43.194863,42.919581)",
+    "gbl_indexYear_im": [
+        2026
+    ],
+    "dct_language_sm": [
+        "eng"
+    ],
+    "dct_license_sm": [
+        "http://www.opendefinition.org/licenses/cc-by"
+    ],
+    "dct_publisher_sm": [
+        "City of Milwaukee Department of Neighborhood Services"
+    ],
+    "dct_references_s": "{\"http://schema.org/downloadUrl\": \"https://geodata.uwm.edu/public/gmgs5dv427f/Milwaukee_VacantBuildings_2026.csv\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgs5dv427f\"}",
+    "gbl_resourceClass_sm": [
+        "Datasets"
+    ],
+    "gbl_resourceType_sm": [
+        "Tabular data"
+    ],
+    "dct_spatial_sm": [
+        "Milwaukee",
+        "Wisconsin",
+        "United States"
+    ],
+    "dct_subject_sm": [
+        "Vacant buildings",
+        "Tax parcels",
+        "Building registration",
+        "Neighborhoods"
+    ],
+    "dct_temporal_sm": [
+        "2002-2027"
+    ],
+    "dcat_theme_sm": [
+        "Property",
+        "Society",
+        "Structure"
+    ],
+    "dct_title_s": "Vacant Buildings Milwaukee, Wisconsin 2026"
+}

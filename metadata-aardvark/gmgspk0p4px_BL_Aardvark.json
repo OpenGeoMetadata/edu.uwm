@@ -1,0 +1,66 @@
+{
+    "id": "ark:-77981-gmgspk0p4px",
+    "dct_identifier_sm": [
+        "ark:/77981/gmgspk0p4px"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "schema_provider_s": "American Geographical Society Library – UWM Libraries",
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_mdModified_dt": "2026-09-18T16:45:38Z",
+    "dct_accessRights_s": "Public",
+    "gbl_suppressed_b": false,
+    "dct_alternative_sm": [
+        "Tax Incremental Financing Districts Milwaukee, Wisconsin 2026"
+    ],
+    "dcat_bbox": "ENVELOPE(-88.061157,-87.889186,43.186397,42.945291)",
+    "dct_creator_sm": [
+        "City of Milwaukee Department of City Development"
+    ],
+    "dct_issued_s": "2026",
+    "dct_description_sm": [
+        "This polygon data layer represents 135 tax incremental district features in the City of Milwaukee, Wisconsin as of September 17, 2026. Tax Incremental Financing is an economic development tool used by the City to leverage private development investment. Milwaukee has created more than 121 Tax Incremental Districts to support projects ranging from major business and infrastructure investments to neighborhood-scale development. The source portal states that the dataset is refreshed nightly. The source shapefile is projected in NAD27 / Wisconsin South (EPSG:32054).",
+        "Original source: <a href=\"https://data.milwaukee.gov/dataset/tax-incremental-districts-tid\">City of Milwaukee Open Data Portal</a>."
+    ],
+    "dct_format_s": "Shapefile",
+    "locn_geometry": "ENVELOPE(-88.061157,-87.889186,43.186397,42.945291)",
+    "gbl_indexYear_im": [
+        2026
+    ],
+    "dct_language_sm": [
+        "eng"
+    ],
+    "dct_license_sm": [
+        "http://www.opendefinition.org/licenses/cc-by"
+    ],
+    "dct_publisher_sm": [
+        "City of Milwaukee Department of City Development"
+    ],
+    "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\": \"https://milwaukeemaps.milwaukee.gov/arcgis/rest/services/planning/special_districts/MapServer/8\", \"http://lccn.loc.gov/sh85035852\": \"https://city.milwaukee.gov/DCD/BusinessToolbox/bids/TaxIncrementalFinancing\", \"http://schema.org/downloadUrl\": \"https://geodata.uwm.edu/public/gmgspk0p4px/Milwaukee_TaxIncrementalDistricts_2026.zip\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgspk0p4px\"}",
+    "gbl_resourceClass_sm": [
+        "Datasets"
+    ],
+    "gbl_resourceType_sm": [
+        "Polygon data"
+    ],
+    "dct_spatial_sm": [
+        "Milwaukee",
+        "Wisconsin",
+        "United States"
+    ],
+    "dct_subject_sm": [
+        "Tax increment financing",
+        "Economic development",
+        "Special districts"
+    ],
+    "dct_temporal_sm": [
+        "2026"
+    ],
+    "dcat_theme_sm": [
+        "Boundaries",
+        "Economy"
+    ],
+    "dct_title_s": "Tax Incremental Districts Milwaukee, Wisconsin 2026"
+}

@@ -1,0 +1,61 @@
+{
+    "id": "ark:-77981-gmgstb2rf24",
+    "dct_identifier_sm": [
+        "ark:/77981/gmgstb2rf24"
+    ],
+    "gbl_mdVersion_s": "Aardvark",
+    "schema_provider_s": "American Geographical Society Library – UWM Libraries",
+    "dct_rights_sm": [
+        "<a href=\"https://uwm.edu/libraries/digital-collections/copyright-digcoll/\">Please see the UWM Libraries statement on Copyright and Digital Collections</a>.",
+        "Although this data is being distributed by the American Geographical Society Library at the University of Wisconsin-Milwaukee Libraries, no warranty expressed or implied is made by the University as to the accuracy of the data and related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the University in the use of this data, or related materials."
+    ],
+    "gbl_mdModified_dt": "2026-09-18T16:45:38Z",
+    "dct_accessRights_s": "Public",
+    "gbl_suppressed_b": false,
+    "dcat_bbox": "ENVELOPE(-88.061491,-87.875979,43.189996,42.936577)",
+    "dct_creator_sm": [
+        "City of Milwaukee Election Commission"
+    ],
+    "dct_issued_s": "2026",
+    "dct_description_sm": [
+        "This point data layer represents the 187 polling places in the City of Milwaukee, Wisconsin as of September 17, 2026. Attributes include polling-place name and address and information about entrances, accessibility, and parking. The source portal states that the dataset is refreshed nightly. The source shapefile is projected in NAD27 / Wisconsin South (EPSG:32054).",
+        "Original source: <a href=\"https://data.milwaukee.gov/dataset/voting-wards\">City of Milwaukee Open Data Portal</a>."
+    ],
+    "dct_format_s": "Shapefile",
+    "locn_geometry": "ENVELOPE(-88.061491,-87.875979,43.189996,42.936577)",
+    "gbl_indexYear_im": [
+        2026
+    ],
+    "dct_language_sm": [
+        "eng"
+    ],
+    "dct_license_sm": [
+        "http://www.opendefinition.org/licenses/cc-by"
+    ],
+    "dct_publisher_sm": [
+        "City of Milwaukee Election Commission"
+    ],
+    "dct_references_s": "{\"urn:x-esri:serviceType:ArcGIS#DynamicMapLayer\": \"https://milwaukeemaps.milwaukee.gov/arcgis/rest/services/election/election_wards/MapServer/0\", \"http://schema.org/downloadUrl\": \"https://geodata.uwm.edu/public/gmgstb2rf24/Milwaukee_PollingPlaces_2026.zip\", \"http://schema.org/url\": \"https://geodiscovery.uwm.edu/catalog/ark:-77981-gmgstb2rf24\"}",
+    "gbl_resourceClass_sm": [
+        "Datasets"
+    ],
+    "gbl_resourceType_sm": [
+        "Point data"
+    ],
+    "dct_spatial_sm": [
+        "Milwaukee",
+        "Wisconsin",
+        "United States"
+    ],
+    "dct_subject_sm": [
+        "Polling places",
+        "Elections"
+    ],
+    "dct_temporal_sm": [
+        "2026"
+    ],
+    "dcat_theme_sm": [
+        "Society"
+    ],
+    "dct_title_s": "Polling Places Milwaukee, Wisconsin 2026"
+}
